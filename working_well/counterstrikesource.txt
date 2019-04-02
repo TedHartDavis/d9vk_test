@@ -1,4 +1,4 @@
-D9VK Why So Evil [Date]
+D9VK Counter-Strike: Source [Date]
 
 D9VK is a project by Joshua Ashton, link:
 https://github.com/Joshua-Ashton/d9vk
@@ -6,7 +6,7 @@ https://github.com/Joshua-Ashton/d9vk
 Playlist:
 https://www.youtube.com/playlist?list=PLGAsIctO10AW14gvHy8oh5oDXC_SxC7lx
 
-Launhed with these launch options:
+Launched with these launch options:
 -w 1920 -h 1080 -windowed -noborder +mat_disable_d3d9ex 1 +mat_d3d9ex_disabled 1 -dxlevel 90 +mat_dxlevel 90
 
 PC Specs (for what they matter):
