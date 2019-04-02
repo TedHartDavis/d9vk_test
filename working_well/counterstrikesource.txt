@@ -16,6 +16,5 @@ GPU - Nvidia 650Ti 2GB
 OS - Windows Server (basically Windows 10 1809)
 Recorded with Bandicam NVENC, 80q
 
-
 Tags:
 Joshua, Ashton, DirectX, D9VK, Vulkan, Open Source, Counter Strike, Counter-Strike, Github, DXUP
