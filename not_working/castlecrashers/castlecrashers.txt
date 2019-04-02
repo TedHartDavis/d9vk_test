@@ -10,3 +10,4 @@ Blank screen; sound works
 
 Remarks:
 It's running, I guess, just not rendering (:
+See log
