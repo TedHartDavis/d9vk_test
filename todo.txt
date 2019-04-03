@@ -1,0 +1,7 @@
+- Retest failed HL2 Engine games for reasons for failure
+- Retest Borderlands 1&2
+- Retest Skyrim
+- Test games I have on UPlay
+- Test World Of Tanks Blitz
+- Test World Of Warships
+- Test World Of Warplanes
