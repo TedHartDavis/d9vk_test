@@ -1,0 +1,14 @@
+Fallout 3 GOTY
+
+Tested on build from April 1st 2019
+
+Launch options used (if any):
+None
+
+Symptoms:
+Launches to black screen at 320x240, still plays music, but eventually crashes (similar to The Elder Scrolls IV: Oblivion)
+
+Remarks:
+See logs
+See video for Oblivion:
+https://youtu.be/6v0qO6ghnQw
