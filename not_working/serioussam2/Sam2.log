@@ -1,0 +1,56 @@
+﻿
+
+        -------- START OF LOG --------
+
+LOG:   Core version: $Version: Serious Sam 2; 2.080.00:269486; 2014-PATCH-2-080-inc$
+LOG:   Command:  $ -w 1920 -h 1080 -windowed -noborder +mat_disable_d3d9ex 1 +mat_d3d9ex_disabled 1 -dxlevel 90 +mat_dxlevel 90
+LOG:   Initializing timer.
+LOG:   Timestamp: 2019/04/03 22:18:52
+LOG:   Binary name: Sam2.exe
+LOG:   Binary soft path: Bin/
+LOG:   Binary hard path: C:\Program Files (x86)\Steam\steamapps\common\Serious Sam 2\Bin\
+LOG:   Application directory: C:\Program Files (x86)\Steam\steamapps\common\Serious Sam 2\
+LOG:   Loading group files...
+LOG:     All_PC_01.gro: 1194 files
+LOG:     All_PC_02.gro: 5213 files
+LOG:     All_PC_03.gro: 3274 files
+LOG:     Movies_PC_01.gro: 56 files
+LOG:     Movies_PC_02.gro: 44 files
+LOG:     Patch_02_068.gro: 360 files
+LOG:     Patch_02_080_210639.gro: 119 files
+LOG:     Patch_02_080_243026.gro: 31 files
+LOG:     Patch_02_080_243893.gro: 10 files
+LOG:     Patch_02_080_244138.gro: 15 files
+LOG:     Patch_02_080_244697.gro: 4 files
+LOG:     Patch_02_080_252822.gro: 2 files
+LOG:   --- Serious Engine Startup ---
+LOG:   
+LOG:   Examining underlying OS...
+LOG:     Type: WinNT
+LOG:     Version: 6.2, build 9200
+LOG:     Misc: 
+LOG:   
+LOG:   Detecting CPU...
+LOG:   Vendor: GenuineIntel
+LOG:     Type: 0, Family: 6, Model: 12, Stepping: 3
+LOG:      MMX: Yes
+LOG:      SSE: Yes
+LOG:     CMOV: Yes
+LOG:    Clock: 3392 MHz
+LOG:   
+LOG:   Error loading ImmWraper.dll: Dynamic module "C:\Program Files (x86)\Steam\steamapps\common\Serious Sam 2\Bin\ImmWrapper.dll" not found! (Error 126).
+LOG:     IFeel disabled
+LOG:   Config file 'Content/SeriousSam2/Config/boot.cfg' doesn't exist.
+LOG:   Processing config file 'Content/SeriousSam2/Config/autoexec.cfg'.
+LOG:   Processing config file 'Content/SeriousSam2/Config/user.cfg'.
+ERR:   <memory stream>(4) : error : invalid expression part.
+ERR:   Syntax error in command.
+LOG:   Loading cvars from "Content/SeriousSam2/Sam2.ini".
+LOG:   
+LOG:   Desktop settings:
+LOG:     Color depth: 32-bit
+LOG:     Desktop resolution: 1920 x 1080
+LOG:     Virtual screen: 5760 x 1080
+LOG:     Monitors attached: 3
+LOG:   
+LOG:   * Direct3D context created.
