@@ -1,0 +1,491 @@
+Initialize engine version: 5.5.5p2 (371251174a02)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [d3d9.dll 0.0.26818.12288]
+    Renderer: GeForce GTX 650 Ti
+    Vendor:   NVIDIA
+    VRAM:     2007 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=1 INTZ=1 NULL=1 RESZ=0 SlowINTZ=0 ATOC=1 BC4=1 BC5=1
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\PlagueInc\PlagueIncEvolved_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Program Files (x86)\Steam\steamapps\common\PlagueInc\PlagueIncEvolved_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\PlagueInc\PlagueIncEvolved_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Program Files (x86)\Steam\steamapps\common\PlagueInc\PlagueIncEvolved_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\PlagueInc\PlagueIncEvolved_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Program Files (x86)\Steam\steamapps\common\PlagueInc\PlagueIncEvolved_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\PlagueInc\PlagueIncEvolved_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading C:\Program Files (x86)\Steam\steamapps\common\PlagueInc\PlagueIncEvolved_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\PlagueInc\PlagueIncEvolved_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Program Files (x86)\Steam\steamapps\common\PlagueInc\PlagueIncEvolved_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\PlagueInc\PlagueIncEvolved_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Program Files (x86)\Steam\steamapps\common\PlagueInc\PlagueIncEvolved_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\PlagueInc\PlagueIncEvolved_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Program Files (x86)\Steam\steamapps\common\PlagueInc\PlagueIncEvolved_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\PlagueInc\PlagueIncEvolved_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Program Files (x86)\Steam\steamapps\common\PlagueInc\PlagueIncEvolved_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\PlagueInc\PlagueIncEvolved_Data\Managed\ICSharpCode.SharpZipLib.dll (this message is harmless)
+Loading C:\Program Files (x86)\Steam\steamapps\common\PlagueInc\PlagueIncEvolved_Data\Managed\ICSharpCode.SharpZipLib.dll into Unity Child Domain
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\PlagueInc\PlagueIncEvolved_Data\Managed\Vectrosity.dll (this message is harmless)
+Loading C:\Program Files (x86)\Steam\steamapps\common\PlagueInc\PlagueIncEvolved_Data\Managed\Vectrosity.dll into Unity Child Domain
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\PlagueInc\PlagueIncEvolved_Data\Managed\SuperSplines.dll (this message is harmless)
+Loading C:\Program Files (x86)\Steam\steamapps\common\PlagueInc\PlagueIncEvolved_Data\Managed\SuperSplines.dll into Unity Child Domain
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\PlagueInc\PlagueIncEvolved_Data\Managed\ProMouseDll.dll (this message is harmless)
+Loading C:\Program Files (x86)\Steam\steamapps\common\PlagueInc\PlagueIncEvolved_Data\Managed\ProMouseDll.dll into Unity Child Domain
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\PlagueInc\PlagueIncEvolved_Data\Managed\MouseLibWin.dll (this message is harmless)
+Loading C:\Program Files (x86)\Steam\steamapps\common\PlagueInc\PlagueIncEvolved_Data\Managed\MouseLibWin.dll into Unity Child Domain
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\PlagueInc\PlagueIncEvolved_Data\Managed\Flow.dll (this message is harmless)
+Loading C:\Program Files (x86)\Steam\steamapps\common\PlagueInc\PlagueIncEvolved_Data\Managed\Flow.dll into Unity Child Domain
+- Completed reload, in  0.036 seconds
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\PlagueInc\PlagueIncEvolved_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\PlagueInc\PlagueIncEvolved_Data\Managed\System.dll (this message is harmless)
+OnLevelWasLoaded was found on LineManager
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename:  Line: 383)
+
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\PlagueInc\PlagueIncEvolved_Data\Managed\System.Xml.dll (this message is harmless)
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1920x1080 60Hz; virtual: 5760x1080 at -1920,0
+<RI> Initialized touch support.
+The referenced script on this Behaviour (Game Object 'ReanimateZombies') is missing!
+ 
+(Filename:  Line: 1755)
+
+The referenced script on this Behaviour (Game Object 'Toggle_Transmission') is missing!
+ 
+(Filename:  Line: 1755)
+
+The referenced script on this Behaviour (Game Object 'Toggle_Symptoms') is missing!
+ 
+(Filename:  Line: 1755)
+
+The referenced script on this Behaviour (Game Object 'Toggle_Ablities') is missing!
+ 
+(Filename:  Line: 1755)
+
+The referenced script on this Behaviour (Game Object 'Toggle_Overview') is missing!
+ 
+(Filename:  Line: 1755)
+
+The referenced script on this Behaviour (Game Object 'Button_Exit') is missing!
+ 
+(Filename:  Line: 1755)
+
+The referenced script on this Behaviour (Game Object 'Button_WorldCure') is missing!
+ 
+(Filename:  Line: 1755)
+
+The referenced script on this Behaviour (Game Object 'Button_Disease_Box') is missing!
+ 
+(Filename:  Line: 1755)
+
+The referenced script on this Behaviour (Game Object 'Button_World_Box') is missing!
+ 
+(Filename:  Line: 1755)
+
+The referenced script on this Behaviour (Game Object 'Button_Disease') is missing!
+ 
+(Filename:  Line: 1755)
+
+The referenced script on this Behaviour (Game Object 'Button_World') is missing!
+ 
+(Filename:  Line: 1755)
+
+The referenced script on this Behaviour (Game Object 'Button_Context') is missing!
+ 
+(Filename:  Line: 1755)
+
+The referenced script on this Behaviour (Game Object 'Button_Context_Box') is missing!
+ 
+(Filename:  Line: 1755)
+
+The referenced script on this Behaviour (Game Object 'Button_Context') is missing!
+ 
+(Filename:  Line: 1755)
+
+The referenced script on this Behaviour (Game Object 'Button_Context_Box') is missing!
+ 
+(Filename:  Line: 1755)
+
+WARNING: Shader Unsupported: 'Vacuum/Flow/No_Base/Flow_BumpSpecular' - Pass 'FORWARD' has no vertex shader
+WARNING: Shader Unsupported: 'Vacuum/Flow/No_Base/Flow_BumpSpecular' - Pass 'FORWARD' has no vertex shader
+WARNING: Shader Unsupported: 'Vacuum/Flow/No_Base/Flow_BumpSpecular' - Pass 'META' has no vertex shader
+WARNING: Shader Unsupported: 'Vacuum/Flow/No_Base/Flow_BumpSpecular' - All passes removed
+WARNING: Shader Unsupported: 'Hidden/NoiseAndGrainDX11' - Pass '' has no vertex shader
+WARNING: Shader Unsupported: 'Hidden/NoiseAndGrainDX11' - Setting to default shader.
+UnloadTime: 4.395900 ms
+/HS/  PlagueExternalMP Plugin Handshake [9292]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+/HS/  PlagueExternalCoop Plugin Handshake [9292]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Number imported: 6853
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Data/Languages/en Line: 1 - non-whitespace/newlines outside of tag
+Data/Languages/en Line: 5055 - non-whitespace/newlines outside of tag
+Data/Languages/en Line: 5092 - non-whitespace/newlines outside of tag
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Setting resolution: 1920x1080
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1755)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1755)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1755)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1755)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1755)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1755)
+
+The referenced script on this Behaviour (Game Object 'Toggle_Transmission') is missing!
+ 
+(Filename:  Line: 1755)
+
+The referenced script on this Behaviour (Game Object 'Toggle_Transmission') is missing!
+ 
+(Filename:  Line: 1755)
+
+The referenced script on this Behaviour (Game Object 'Toggle_Symptoms') is missing!
+ 
+(Filename:  Line: 1755)
+
+The referenced script on this Behaviour (Game Object 'Toggle_Symptoms') is missing!
+ 
+(Filename:  Line: 1755)
+
+The referenced script on this Behaviour (Game Object 'Toggle_Ablities') is missing!
+ 
+(Filename:  Line: 1755)
+
+The referenced script on this Behaviour (Game Object 'Toggle_Ablities') is missing!
+ 
+(Filename:  Line: 1755)
+
+The referenced script on this Behaviour (Game Object 'Toggle_Overview') is missing!
+ 
+(Filename:  Line: 1755)
+
+The referenced script on this Behaviour (Game Object 'Toggle_Overview') is missing!
+ 
+(Filename:  Line: 1755)
+
+The referenced script on this Behaviour (Game Object 'Button_Exit') is missing!
+ 
+(Filename:  Line: 1755)
+
+The referenced script on this Behaviour (Game Object 'Button_Exit') is missing!
+ 
+(Filename:  Line: 1755)
+
+The referenced script on this Behaviour (Game Object 'Button_WorldCure') is missing!
+ 
+(Filename:  Line: 1755)
+
+The referenced script on this Behaviour (Game Object 'Button_WorldCure') is missing!
+ 
+(Filename:  Line: 1755)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1755)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1755)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1755)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1755)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1755)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1755)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1755)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1755)
+
+The referenced script on this Behaviour (Game Object 'Button_Disease_Box') is missing!
+ 
+(Filename:  Line: 1755)
+
+The referenced script on this Behaviour (Game Object 'Button_Disease_Box') is missing!
+ 
+(Filename:  Line: 1755)
+
+The referenced script on this Behaviour (Game Object 'Button_World_Box') is missing!
+ 
+(Filename:  Line: 1755)
+
+The referenced script on this Behaviour (Game Object 'Button_World_Box') is missing!
+ 
+(Filename:  Line: 1755)
+
+The referenced script on this Behaviour (Game Object 'Button_Disease') is missing!
+ 
+(Filename:  Line: 1755)
+
+The referenced script on this Behaviour (Game Object 'Button_Disease') is missing!
+ 
+(Filename:  Line: 1755)
+
+The referenced script on this Behaviour (Game Object 'Button_World') is missing!
+ 
+(Filename:  Line: 1755)
+
+The referenced script on this Behaviour (Game Object 'Button_World') is missing!
+ 
+(Filename:  Line: 1755)
+
+The referenced script on this Behaviour (Game Object 'Button_Context') is missing!
+ 
+(Filename:  Line: 1755)
+
+The referenced script on this Behaviour (Game Object 'Button_Context') is missing!
+ 
+(Filename:  Line: 1755)
+
+The referenced script on this Behaviour (Game Object 'Button_Context_Box') is missing!
+ 
+(Filename:  Line: 1755)
+
+The referenced script on this Behaviour (Game Object 'Button_Context_Box') is missing!
+ 
+(Filename:  Line: 1755)
+
+The referenced script on this Behaviour (Game Object 'Button_Context') is missing!
+ 
+(Filename:  Line: 1755)
+
+The referenced script on this Behaviour (Game Object 'Button_Context') is missing!
+ 
+(Filename:  Line: 1755)
+
+The referenced script on this Behaviour (Game Object 'Button_Context_Box') is missing!
+ 
+(Filename:  Line: 1755)
+
+The referenced script on this Behaviour (Game Object 'Button_Context_Box') is missing!
+ 
+(Filename:  Line: 1755)
+
+System Info:
+Plague Inc. Evolved Version 1.16.7
+OS: Windows 10  (10.0.0) 64bit
+Processor: Intel(R) Core(TM) i5-4670K CPU @ 3.40GHz Count: 4
+Graphics: 4550/GeForce GTX 650 Ti/NVIDIA/Direct3D 9.0c [d3d9.dll 0.0.26818.12288]/2007/-1 Shader: 30
+Memory: system - 32649 graphics - 2007
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+//////////////////////////////////////////////
+Plague Inc: Branch[] BuildID[0]
+//////////////////////////////////////////////
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\PlagueInc\PlagueIncEvolved_Data\Managed\Boo.Lang.dll (this message is harmless)
+Flow controller warning: Material index - 0 is not flow shader.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "UIRoot/NGUICamera/HUDScreen/HUDPanel/Anchor-BottomLeft/Disease/Button_Disease"
+ 
+(Filename:  Line: 0)
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "UIRoot/NGUICamera/HUDScreen/HUDPanel/Anchor-BottomLeft/Disease/Button_Disease/TooltipDetector"
+ 
+(Filename:  Line: 0)
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "UIRoot/NGUICamera/HUDScreenMP/HUDPanel/Anchor-BottomLeft/Disease/Button_Disease/TooltipDetector"
+ 
+(Filename:  Line: 0)
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "UIRoot/NGUICamera/HUDScreenMP/HUDPanel/Anchor-Top/Coop_Panel/Coop/Content/Center/MP_CO_LabBar/NextLab/Tooltip/Tooltip Child"
+ 
+(Filename:  Line: 0)
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "UIRoot/NGUICamera/HUDScreenMP/HUDPanel/Anchor-Top/Coop_Panel/Coop/Content/Center/MP_CO_LabBar/NextLab/Tooltip/Tooltip Child"
+ 
+(Filename:  Line: 0)
+
+Crash!!!
+SymInit: Symbol-SearchPath: '.;C:\Program Files (x86)\Steam\steamapps\common\PlagueInc;C:\Program Files (x86)\Steam\steamapps\common\PlagueInc;C:\Windows;C:\Windows\system32;SRV*C:\websymbols*http://msdl.microsoft.com/download/symbols;', symOptions: 530, UserName: 'Administrator'
+OS-Version: 10.0.17763 () 0x110-0x3
+C:\Program Files (x86)\Steam\steamapps\common\PlagueInc\PlagueIncEvolved.exe:PlagueIncEvolved.exe (011B0000), size: 18911232 (result: 0), SymType: '-exported-', PDB: 'C:\Program Files (x86)\Steam\steamapps\common\PlagueInc\PlagueIncEvolved.exe', fileVersion: 5.5.5.4689
+C:\Windows\SYSTEM32\ntdll.dll:ntdll.dll (77B30000), size: 1687552 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\ntdll.dll', fileVersion: 10.0.17763.194
+C:\Windows\System32\KERNEL32.DLL:KERNEL32.DLL (75690000), size: 917504 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\KERNEL32.DLL', fileVersion: 10.0.17763.1
+C:\Windows\System32\KERNELBASE.dll:KERNELBASE.dll (774A0000), size: 2068480 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\KERNELBASE.dll', fileVersion: 10.0.17763.134
+C:\Windows\System32\USER32.dll:USER32.dll (75390000), size: 1675264 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\USER32.dll', fileVersion: 10.0.17763.168
+C:\Windows\System32\win32u.dll:win32u.dll (76800000), size: 94208 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\win32u.dll', fileVersion: 10.0.17763.1
+C:\Windows\System32\GDI32.dll:GDI32.dll (76EA0000), size: 143360 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\GDI32.dll', fileVersion: 10.0.17763.1
+C:\Windows\System32\gdi32full.dll:gdi32full.dll (76050000), size: 1470464 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\gdi32full.dll', fileVersion: 10.0.17763.194
+C:\Windows\System32\msvcp_win.dll:msvcp_win.dll (75CC0000), size: 524288 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\msvcp_win.dll', fileVersion: 10.0.17763.1
+C:\Windows\SYSTEM32\HID.DLL:HID.DLL (6CDA0000), size: 45056 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\HID.DLL', fileVersion: 10.0.17763.1
+C:\Windows\System32\ucrtbase.dll:ucrtbase.dll (77370000), size: 1191936 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\ucrtbase.dll', fileVersion: 10.0.17763.1
+C:\Windows\System32\msvcrt.dll:msvcrt.dll (76F50000), size: 786432 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\msvcrt.dll', fileVersion: 7.0.17763.1
+C:\Windows\System32\ole32.dll:ole32.dll (75BC0000), size: 1032192 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\ole32.dll', fileVersion: 10.0.17763.134
+C:\Windows\System32\combase.dll:combase.dll (778A0000), size: 2588672 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\combase.dll', fileVersion: 10.0.17763.253
+C:\Windows\System32\RPCRT4.dll:RPCRT4.dll (75ED0000), size: 782336 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\RPCRT4.dll', fileVersion: 10.0.17763.194
+C:\Windows\System32\SspiCli.dll:SspiCli.dll (751A0000), size: 131072 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\SspiCli.dll', fileVersion: 10.0.17763.1
+C:\Windows\System32\CRYPTBASE.dll:CRYPTBASE.dll (75190000), size: 40960 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\CRYPTBASE.dll', fileVersion: 10.0.17763.1
+C:\Windows\System32\bcryptPrimitives.dll:bcryptPrimitives.dll (76790000), size: 401408 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\bcryptPrimitives.dll', fileVersion: 10.0.17763.1
+C:\Windows\SYSTEM32\VERSION.dll:VERSION.dll (72F90000), size: 32768 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\VERSION.dll', fileVersion: 10.0.17763.1
+C:\Windows\System32\sechost.dll:sechost.dll (77150000), size: 495616 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\sechost.dll', fileVersion: 10.0.17763.1
+C:\Windows\System32\advapi32.dll:advapi32.dll (76710000), size: 516096 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\advapi32.dll', fileVersion: 10.0.17763.1
+C:\Windows\System32\SHLWAPI.dll:SHLWAPI.dll (75E40000), size: 278528 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\SHLWAPI.dll', fileVersion: 10.0.17763.1
+C:\Windows\System32\SHELL32.dll:SHELL32.dll (761C0000), size: 5558272 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\SHELL32.dll', fileVersion: 10.0.17763.168
+C:\Windows\System32\cfgmgr32.dll:cfgmgr32.dll (75E90000), size: 241664 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\cfgmgr32.dll', fileVersion: 10.0.17763.1
+C:\Windows\System32\shcore.dll:shcore.dll (776A0000), size: 561152 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\shcore.dll', fileVersion: 10.0.17763.1
+C:\Windows\System32\windows.storage.dll:windows.storage.dll (76820000), size: 6270976 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\windows.storage.dll', fileVersion: 10.0.17763.168
+C:\Windows\System32\profapi.dll:profapi.dll (76030000), size: 114688 (result: 0), SymType: '-nosymbols-', PDB: 'C:\Windows\System32\profapi.dll', fileVersion: 10.0.17763.1
+C:\Windows\System32\powrprof.dll:powrprof.dll (76EF0000), size: 344064 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\powrprof.dll', fileVersion: 10.0.17763.1
+C:\Windows\System32\kernel.appcore.dll:kernel.appcore.dll (76020000), size: 61440 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\kernel.appcore.dll', fileVersion: 10.0.17763.1
+C:\Windows\System32\cryptsp.dll:cryptsp.dll (76ED0000), size: 73728 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\cryptsp.dll', fileVersion: 10.0.17763.1
+C:\Windows\System32\WS2_32.dll:WS2_32.dll (76E40000), size: 389120 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\WS2_32.dll', fileVersion: 10.0.17763.1
+C:\Windows\System32\OLEAUT32.dll:OLEAUT32.dll (75D40000), size: 634880 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\OLEAUT32.dll', fileVersion: 10.0.17763.1
+C:\Windows\System32\IMM32.dll:IMM32.dll (751C0000), size: 151552 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\IMM32.dll', fileVersion: 10.0.17763.1
+C:\Windows\SYSTEM32\OPENGL32.dll:OPENGL32.dll (6DF00000), size: 888832 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\OPENGL32.dll', fileVersion: 10.0.17763.1
+C:\Windows\SYSTEM32\WINMM.dll:WINMM.dll (73D70000), size: 147456 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\WINMM.dll', fileVersion: 10.0.17763.1
+C:\Windows\SYSTEM32\WINHTTP.dll:WINHTTP.dll (72FA0000), size: 774144 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\WINHTTP.dll', fileVersion: 10.0.17763.1
+C:\Windows\SYSTEM32\IPHLPAPI.DLL:IPHLPAPI.DLL (73EC0000), size: 208896 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\IPHLPAPI.DLL', fileVersion: 10.0.17763.1
+C:\Windows\SYSTEM32\GLU32.dll:GLU32.dll (6DB30000), size: 258048 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\GLU32.dll', fileVersion: 10.0.17763.1
+C:\Windows\SYSTEM32\WINMMBASE.dll:WINMMBASE.dll (734D0000), size: 143360 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\WINMMBASE.dll', fileVersion: 10.0.17763.1
+C:\Windows\SYSTEM32\DNSAPI.dll:DNSAPI.dll (73E30000), size: 589824 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\DNSAPI.dll', fileVersion: 10.0.17763.1
+C:\Windows\System32\NSI.dll:NSI.dll (75570000), size: 28672 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\NSI.dll', fileVersion: 10.0.17763.1
+C:\Program Files (x86)\Steam\gameoverlayrenderer.dll:gameoverlayrenderer.dll (69D60000), size: 1359872 (result: 0), SymType: '-exported-', PDB: 'C:\Program Files (x86)\Steam\gameoverlayrenderer.dll', fileVersion: 4.97.72.56
+C:\Windows\System32\PSAPI.DLL:PSAPI.DLL (75560000), size: 24576 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\PSAPI.DLL', fileVersion: 10.0.17763.1
+C:\Windows\system32\uxtheme.dll:uxtheme.dll (73750000), size: 503808 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\uxtheme.dll', fileVersion: 10.0.17763.1
+C:\Program Files (x86)\Bandicam\bdcam.dll:bdcam.dll (0FD80000), size: 950272 (result: 0), SymType: '-exported-', PDB: 'C:\Program Files (x86)\Bandicam\bdcam.dll', fileVersion: 4.3.4.1503
+C:\Program Files (x86)\Steam\steamapps\common\PlagueInc\PlagueIncEvolved_Data\Mono\mono.dll:mono.dll (10000000), size: 2297856 (result: 0), SymType: '-exported-', PDB: 'C:\Program Files (x86)\Steam\steamapps\common\PlagueInc\PlagueIncEvolved_Data\Mono\mono.dll', fileVersion: 1.0.0.1
+C:\Windows\SYSTEM32\MSWSOCK.dll:MSWSOCK.dll (72CB0000), size: 335872 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\MSWSOCK.dll', fileVersion: 10.0.17763.1
+C:\Windows\System32\MSCTF.dll:MSCTF.dll (771D0000), size: 1298432 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\MSCTF.dll', fileVersion: 10.0.17763.1
+C:\Windows\system32\dwmapi.dll:dwmapi.dll (73500000), size: 155648 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\dwmapi.dll', fileVersion: 10.0.17763.1
+C:\Windows\System32\CRYPT32.dll:CRYPT32.dll (751F0000), size: 1675264 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\CRYPT32.dll', fileVersion: 10.0.17763.1
+C:\Windows\System32\MSASN1.dll:MSASN1.dll (75530000), size: 57344 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\MSASN1.dll', fileVersion: 10.0.17763.1
+C:\Program Files (x86)\Steam\steamapps\common\PlagueInc\d3d9.dll:d3d9.dll (62440000), size: 1990656 (result: 0), SymType: '-exported-', PDB: 'C:\Program Files (x86)\Steam\steamapps\common\PlagueInc\d3d9.dll'
+C:\Windows\SYSTEM32\vulkan-1.dll:vulkan-1.dll (69C80000), size: 872448 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\vulkan-1.dll', fileVersion: 1.1.97.0
+C:\Windows\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_7a8e74171e1b8492\nvoglv32.dll:nvoglv32.dll (080D0000), size: 30265344 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_7a8e74171e1b8492\nvoglv32.dll', fileVersion: 25.21.14.1935
+C:\Windows\System32\SETUPAPI.dll:SETUPAPI.dll (75770000), size: 4501504 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\SETUPAPI.dll', fileVersion: 10.0.17763.1
+C:\Windows\System32\bcrypt.dll:bcrypt.dll (76E20000), size: 102400 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\bcrypt.dll', fileVersion: 10.0.17763.1
+C:\Windows\SYSTEM32\WTSAPI32.dll:WTSAPI32.dll (72EF0000), size: 61440 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\WTSAPI32.dll', fileVersion: 10.0.17763.1
+C:\Windows\SYSTEM32\DEVOBJ.dll:DEVOBJ.dll (72D10000), size: 143360 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\DEVOBJ.dll', fileVersion: 10.0.17763.1
+C:\Windows\System32\WINTRUST.dll:WINTRUST.dll (77070000), size: 282624 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\WINTRUST.dll', fileVersion: 10.0.17763.1
+C:\Windows\SYSTEM32\ntmarta.dll:ntmarta.dll (72BE0000), size: 167936 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\ntmarta.dll', fileVersion: 10.0.17763.1
+C:\Program Files (x86)\Steam\SteamOverlayVulkanLayer.dll:SteamOverlayVulkanLayer.dll (6BAB0000), size: 143360 (result: 0), SymType: '-exported-', PDB: 'C:\Program Files (x86)\Steam\SteamOverlayVulkanLayer.dll'
+C:\Program Files (x86)\Bandicam\bdcamvk32.dll:bdcamvk32.dll (6A850000), size: 139264 (result: 0), SymType: '-exported-', PDB: 'C:\Program Files (x86)\Bandicam\bdcamvk32.dll', fileVersion: 1.0.0.103
+C:\Windows\System32\imagehlp.dll:imagehlp.dll (75540000), size: 102400 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\imagehlp.dll', fileVersion: 10.0.17763.1
+C:\Windows\system32\rsaenh.dll:rsaenh.dll (72C50000), size: 192512 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\rsaenh.dll', fileVersion: 10.0.17763.1
+C:\Windows\SYSTEM32\gpapi.dll:gpapi.dll (72430000), size: 122880 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\gpapi.dll', fileVersion: 10.0.17763.1
+C:\Windows\SYSTEM32\cryptnet.dll:cryptnet.dll (6B960000), size: 155648 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\cryptnet.dll', fileVersion: 10.0.17763.1
+C:\Windows\system32\nvapi.dll:nvapi.dll (16EF0000), size: 4501504 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\nvapi.dll', fileVersion: 25.21.14.1935
+C:\Windows\SYSTEM32\dxgi.dll:dxgi.dll (6CDB0000), size: 671744 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\dxgi.dll', fileVersion: 10.0.17763.1
+C:\Windows\SYSTEM32\WINSTA.dll:WINSTA.dll (6FDB0000), size: 274432 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\WINSTA.dll', fileVersion: 10.0.17763.1
+C:\Windows\SYSTEM32\mscms.dll:mscms.dll (6BAF0000), size: 626688 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\mscms.dll', fileVersion: 10.0.17763.1
+C:\Windows\SYSTEM32\USERENV.dll:USERENV.dll (75120000), size: 143360 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\USERENV.dll', fileVersion: 10.0.17763.1
+C:\Windows\SYSTEM32\ColorAdapterClient.dll:ColorAdapterClient.dll (6BAE0000), size: 49152 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\ColorAdapterClient.dll', fileVersion: 10.0.17763.1
+C:\Windows\SYSTEM32\icm32.dll:icm32.dll (5E400000), size: 253952 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\icm32.dll', fileVersion: 10.0.17763.1
+C:\Windows\System32\clbcatq.dll:clbcatq.dll (770C0000), size: 528384 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\clbcatq.dll', fileVersion: 2001.12.10941.16384
+C:\Windows\System32\MMDevApi.dll:MMDevApi.dll (70650000), size: 385024 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\MMDevApi.dll', fileVersion: 10.0.17763.1
+C:\Windows\System32\PROPSYS.dll:PROPSYS.dll (704D0000), size: 1564672 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\PROPSYS.dll', fileVersion: 7.0.17763.1
+C:\Windows\SYSTEM32\wdmaud.drv:wdmaud.drv (70490000), size: 237568 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\wdmaud.drv', fileVersion: 10.0.17763.1
+C:\Windows\SYSTEM32\AVRT.dll:AVRT.dll (70470000), size: 32768 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\AVRT.dll', fileVersion: 10.0.17763.1
+C:\Windows\SYSTEM32\ksuser.dll:ksuser.dll (70480000), size: 28672 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\ksuser.dll', fileVersion: 10.0.17763.1
+C:\Windows\SYSTEM32\AUDIOSES.DLL:AUDIOSES.DLL (70360000), size: 1110016 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\AUDIOSES.DLL', fileVersion: 10.0.17763.134
+C:\Windows\SYSTEM32\wintypes.dll:wintypes.dll (70280000), size: 897024 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\wintypes.dll', fileVersion: 10.0.17763.1
+C:\Windows\SYSTEM32\msacm32.drv:msacm32.drv (70270000), size: 40960 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\msacm32.drv', fileVersion: 10.0.17763.1
+C:\Windows\SYSTEM32\MSACM32.dll:MSACM32.dll (70250000), size: 102400 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\MSACM32.dll', fileVersion: 10.0.17763.1
+C:\Windows\SYSTEM32\midimap.dll:midimap.dll (70240000), size: 32768 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\midimap.dll', fileVersion: 10.0.17763.1
+C:\Windows\SYSTEM32\resourcepolicyclient.dll:resourcepolicyclient.dll (70230000), size: 57344 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\resourcepolicyclient.dll', fileVersion: 10.0.17763.1
+C:\Windows\SYSTEM32\xinput1_3.dll:xinput1_3.dll (196D0000), size: 90112 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\xinput1_3.dll', fileVersion: 9.18.944.0
+C:\Windows\SYSTEM32\d3d9.dll:d3d9.dll (6C040000), size: 1511424 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\d3d9.dll', fileVersion: 10.0.17763.1
+C:\Windows\SYSTEM32\TextInputFramework.dll:TextInputFramework.dll (6BB90000), size: 548864 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\TextInputFramework.dll', fileVersion: 10.0.17763.1
+C:\Windows\SYSTEM32\CoreUIComponents.dll:CoreUIComponents.dll (6D090000), size: 2531328 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\CoreUIComponents.dll', fileVersion: 10.0.17763.1
+C:\Windows\SYSTEM32\CoreMessaging.dll:CoreMessaging.dll (6D9C0000), size: 585728 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\CoreMessaging.dll', fileVersion: 10.0.17763.194
+C:\Windows\system32\wbem\wbemprox.dll:wbemprox.dll (72420000), size: 53248 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\wbem\wbemprox.dll', fileVersion: 10.0.17763.1
+C:\Windows\SYSTEM32\wbemcomn.dll:wbemcomn.dll (72360000), size: 434176 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\wbemcomn.dll', fileVersion: 10.0.17763.1
+C:\Windows\system32\wbem\wbemsvc.dll:wbemsvc.dll (72410000), size: 65536 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\wbem\wbemsvc.dll', fileVersion: 10.0.17763.1
+C:\Windows\system32\wbem\fastprox.dll:fastprox.dll (72290000), size: 806912 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\wbem\fastprox.dll', fileVersion: 10.0.17763.1
+C:\Windows\SYSTEM32\dhcpcsvc6.DLL:dhcpcsvc6.DLL (72C30000), size: 77824 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\dhcpcsvc6.DLL', fileVersion: 10.0.17763.1
+C:\Windows\SYSTEM32\dhcpcsvc.DLL:dhcpcsvc.DLL (72C10000), size: 81920 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\dhcpcsvc.DLL', fileVersion: 10.0.17763.1
+C:\Windows\System32\rasadhlp.dll:rasadhlp.dll (72680000), size: 32768 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\rasadhlp.dll', fileVersion: 10.0.17763.1
+C:\Windows\System32\fwpuclnt.dll:fwpuclnt.dll (725F0000), size: 331776 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\fwpuclnt.dll', fileVersion: 10.0.17763.1
+C:\Program Files (x86)\Steam\steamapps\common\PlagueInc\PlagueIncEvolved_Data\Plugins\PlagueExternal.dll:PlagueExternal.dll (6A820000), size: 163840 (result: 0), SymType: '-exported-', PDB: 'C:\Program Files (x86)\Steam\steamapps\common\PlagueInc\PlagueIncEvolved_Data\Plugins\PlagueExternal.dll'
+C:\Program Files (x86)\Steam\steamapps\common\PlagueInc\PlagueIncEvolved_Data\Plugins\PlagueExternalMP.dll:PlagueExternalMP.dll (6A7F0000), size: 139264 (result: 0), SymType: '-exported-', PDB: 'C:\Program Files (x86)\Steam\steamapps\common\PlagueInc\PlagueIncEvolved_Data\Plugins\PlagueExternalMP.dll'
+C:\Program Files (x86)\Steam\steamapps\common\PlagueInc\PlagueIncEvolved_Data\Plugins\PlagueExternalCoop.dll:PlagueExternalCoop.dll (6A7C0000), size: 139264 (result: 0), SymType: '-exported-', PDB: 'C:\Program Files (x86)\Steam\steamapps\common\PlagueInc\PlagueIncEvolved_Data\Plugins\PlagueExternalCoop.dll'
+C:\Program Files (x86)\Steam\steamapps\common\PlagueInc\PlagueIncEvolved_Data\Plugins\CSteamworks.dll:CSteamworks.dll (69C50000), size: 151552 (result: 0), SymType: '-exported-', PDB: 'C:\Program Files (x86)\Steam\steamapps\common\PlagueInc\PlagueIncEvolved_Data\Plugins\CSteamworks.dll', fileVersion: 1.26.0.0
+C:\Program Files (x86)\Steam\steamapps\common\PlagueInc\steam_api.dll:steam_api.dll (69C10000), size: 229376 (result: 0), SymType: '-exported-', PDB: 'C:\Program Files (x86)\Steam\steamapps\common\PlagueInc\steam_api.dll', fileVersion: 3.27.76.74
+C:\Program Files (x86)\Steam\steamclient.dll:steamclient.dll (398D0000), size: 14487552 (result: 0), SymType: '-exported-', PDB: 'C:\Program Files (x86)\Steam\steamclient.dll', fileVersion: 4.97.72.56
+C:\Program Files (x86)\Steam\tier0_s.dll:tier0_s.dll (6FC60000), size: 630784 (result: 0), SymType: '-exported-', PDB: 'C:\Program Files (x86)\Steam\tier0_s.dll', fileVersion: 4.97.72.56
+C:\Program Files (x86)\Steam\vstdlib_s.dll:vstdlib_s.dll (6E7F0000), size: 385024 (result: 0), SymType: '-exported-', PDB: 'C:\Program Files (x86)\Steam\vstdlib_s.dll', fileVersion: 4.97.72.56
+C:\Windows\SYSTEM32\Secur32.dll:Secur32.dll (72400000), size: 40960 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\Secur32.dll', fileVersion: 10.0.17763.1
+C:\Program Files (x86)\Steam\steam.dll:steam.dll (69B40000), size: 794624 (result: 0), SymType: '-exported-', PDB: 'C:\Program Files (x86)\Steam\steam.dll'
+C:\Program Files (x86)\Steam\Steam2.dll:Steam2.dll (60810000), size: 2887680 (result: 0), SymType: '-exported-', PDB: 'C:\Program Files (x86)\Steam\Steam2.dll', fileVersion: 2.0.2117.156
+C:\Program Files (x86)\Steam\DbgHelp.dll:DbgHelp.dll (69EB0000), size: 1134592 (result: 0), SymType: '-exported-', PDB: 'C:\Program Files (x86)\Steam\DbgHelp.dll', fileVersion: 6.7.5.0
+C:\Program Files (x86)\Steam\CSERHelper.dll:CSERHelper.dll (69B10000), size: 135168 (result: 0), SymType: '-exported-', PDB: 'C:\Program Files (x86)\Steam\CSERHelper.dll', fileVersion: 4.50.0.0
+
+========== OUTPUTING STACK TRACE ==================
+
+0x62470409 (d3d9) D3DPERF_GetStatus
+0x624583C7 (d3d9) D3DPERF_GetStatus
+0x0189CC4B (PlagueIncEvolved) physx::shdfnd::ErrorHandler::getErrorCallback
+0x01894A1B (PlagueIncEvolved) physx::shdfnd::ErrorHandler::getErrorCallback
+0x018C74C5 (PlagueIncEvolved) physx::shdfnd::ErrorHandler::getErrorCallback
+0x018CC30E (PlagueIncEvolved) physx::shdfnd::ErrorHandler::getErrorCallback
+0x013D877F (PlagueIncEvolved) physx::shdfnd::Foundation::getPAUtils
+0x756AFE09 (KERNEL32) BaseThreadInitThunk
+0x77B9662D (ntdll) RtlGetAppContainerNamedObjectPath
+0x77B965FD (ntdll) RtlGetAppContainerNamedObjectPath
+
+========== END OF STACKTRACE ===========
+
+**** Crash! ****
