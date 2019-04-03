@@ -6,7 +6,7 @@ Launch options used (if any):
 None
 
 Symptoms:
-Launches to slash, then no further
+Launches to splash, then no further
 
 Remarks:
 See log
