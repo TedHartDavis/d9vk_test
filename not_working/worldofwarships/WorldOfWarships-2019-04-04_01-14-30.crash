@@ -1,0 +1,32 @@
+Application C:/Program Files (x86)/Steam/steamapps/common/World of Warships/bin/1427460/WorldOfWarships.exe crashed 04.04.2019 at 01:14:30
+
+Message:
+Moo::RenderContext::createDevice: shader model 3.0 not supported
+
+Hash: 8640
+EIP: 0x000000000180D81E
+
+
+System info:
+	OS Name: Windows 8.1
+	OS Version: 6.6 
+	OS Architecture: x86_64
+
+
+Memory info:
+	Virtual memory: 808304Kb/4194176Kb (20%)
+	Working set (process physical memory): 451996Kb/4194176Kb (10%)
+	Commit charge (working set + process page file usage): 459948Kb/4194176Kb (10%)
+	Global physical memory: 22331468Kb/33431676Kb (66%)
+	Global commitable memory (physical + pagefile): 25964796Kb/38412412Kb (68%)
+
+
+
+
+System info:
+APPLICATION = DISPLAYDEVICE 0 = \\.\DISPLAY1, NVIDIA GeForce GTX 650 Ti, PCI\VEN_10DE&DEV_11C6&SUBSYS_35541458&REV_A1
+DISPLAYDEVICE 1 = \\.\DISPLAY2, NVIDIA GeForce GTX 650 Ti, PCI\VEN_10DE&DEV_11C6&SUBSYS_35541458&REV_A1
+DISPLAYDEVICE 2 = \\.\DISPLAY3, NVIDIA GeForce GTX 650 Ti, PCI\VEN_10DE&DEV_11C6&SUBSYS_35541458&REV_A1
+DISPLAYDEVICE 3 = \\.\DISPLAY4, NVIDIA GeForce GTX 650 Ti, PCI\VEN_10DE&DEV_11C6&SUBSYS_35541458&REV_A1
+
+
