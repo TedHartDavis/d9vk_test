@@ -8,4 +8,4 @@ Symptoms:
 Crashes upon launch; doesn't show up in task manager??
 
 Remarks:
-See log (just kept writing more and more as I failed to kill it :P)
+See log (compressed so github will accept it; just kept writing more and more as I failed to kill it :P)
