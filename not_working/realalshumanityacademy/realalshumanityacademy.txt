@@ -10,3 +10,4 @@ Launches to window that renders, but crashes once beyond Unity splash
 
 Remarks:
 See logs and dump
+I don't have VR hardware so I can't test this properly if/when it works
