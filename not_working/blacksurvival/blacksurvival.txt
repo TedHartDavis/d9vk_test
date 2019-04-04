@@ -6,7 +6,7 @@ Launch options used (if any):
 -force-d3d9
 
 Symptoms:
-Launches, loads in with some giltching but some stuff rendering, when playing the actual game part is a black screen
+Launches, loads in with some glitching but some stuff rendering, when playing the actual game part is a black screen
 
 Remarks:
 See log
