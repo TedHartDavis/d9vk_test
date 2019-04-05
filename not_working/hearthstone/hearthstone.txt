@@ -1,4 +1,4 @@
-Dota 2
+Hearthstone
 
 Tested on build from CattaRappa from 4th April 2019
 
