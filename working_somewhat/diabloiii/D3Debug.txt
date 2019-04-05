@@ -1,0 +1,390 @@
+User defined symbols path: C:\Program Files (x86)\Diablo III
+2019.04.05 16:03:13.583092800	Diablo III Release (No Assertions) running under Windows 10 Server-64 (Version 10.0.17763)
+2019.04.05 16:03:13.586243100	<BUILD>2.6.4.55430 (133476-1625785)</BUILD>
+2019.04.05 16:03:13.591376800	Cheats: DISABLED
+2019.04.05 16:03:13.594219500	CPU Vendor: GenuineIntel
+2019.04.05 16:03:13.596742100	CPU Details: Intel(R) Core(TM) i5-4670K CPU @ 3.40GHz
+2019.04.05 16:03:13.599581900	CPU Processors: 1
+2019.04.05 16:03:13.602560300	CPU Cores: 4
+2019.04.05 16:03:13.605754700	CPU Threads: 4
+2019.04.05 16:03:13.608697300	32648.12 MB of total physical memory
+2019.04.05 16:03:13.611448900	OS Language: English
+2019.04.05 16:03:13.614123000	Application Path: C:\Program Files (x86)\Diablo III\
+2019.04.05 16:03:13.620016800	--- OS memory stats -----
+2019.04.05 16:03:13.623365800	Virtual size: 562.00 Mb
+2019.04.05 16:03:13.628075800	Total free: 3533.00 Mb
+2019.04.05 16:03:13.630935400	Largest free block: 2034.00 Mb
+2019.04.05 16:03:13.633755200	--- OS memory stats end-----
+2019.04.05 16:03:13.637188200	--- Main memory stats ---
+2019.04.05 16:03:13.640308300	XLocalHeap 02C0FE28: Nodes used: 17, Memory used: 46433728/423624704, Wasted by nodes header: 288, Biggest contiguous free block: 377190976, Biggest contiguous allocated block: 44040192
+2019.04.05 16:03:13.643673800	XLocalHeap 12B4A040: Nodes used: 148, Memory used: 16208/44040192, Wasted by nodes header: 2400, Biggest contiguous free block: 44023936, Biggest contiguous allocated block: 512
+2019.04.05 16:03:13.647460500	--- Main memory stats end ---
+2019.04.05 16:03:13.652194000	----------------------------------------------
+
+2019.04.05 16:03:13.656139400	Command Line: OnlineService.SSO=true -force-d3d9 -w 1920 -h 1080 -windowed -noborder +mat_disable_d3d9ex 1 +mat_d3d9ex_disabled 1 -dxlevel 90 +mat_dxlevel 90 -launch -uid diablo3_enus
+2019.04.05 16:03:13.661131400	Monitor BPP: 32
+2019.04.05 16:03:13.664919200	Monitor BPP: 32
+2019.04.05 16:03:13.668396500	Monitor BPP: 32
+2019.04.05 16:03:13.672680100	Lowest monitor BPP: 32
+2019.04.05 16:03:13.960394300	Clock freq = 10000000
+2019.04.05 16:03:13.964008700	Adjusted initial working directory: C:\Program Files (x86)\Diablo III
+2019.04.05 16:03:13.967476600	NGDP detected
+2019.04.05 16:03:13.971636500	WinSock started successfully!
+2019.04.05 16:03:14.247993500	Detecting first installed locale.
+2019.04.05 16:03:14.251701000	Detected: enUS
+2019.04.05 16:03:14.325776400	Agent is successfully started or running already.
+2019.04.05 16:03:14.331154100	AgentManagerImpl::GetStatus - bResult: 1, StatusCode: 200
+2019.04.05 16:03:14.342968200	Agent is not reporting speed - this is a problem.
+2019.04.05 16:03:14.346135300	Detecting installed locales:
+2019.04.05 16:03:14.349365100	    Found: enUS
+2019.04.05 16:03:14.358968700	Agent selected locale: enUS
+2019.04.05 16:03:14.362395800	FileSystemGetLocale, AgentSettings: 1
+2019.04.05 16:03:14.366213200	FileSystemGetLocale, using agent locale: enUS
+2019.04.05 16:03:14.370244600	FileSystemGetLocale, returned locale: enUS
+2019.04.05 16:03:14.374307900	SNOFilesInitialize('Data_D3', PC, enUS)
+2019.04.05 16:03:14.377918700	Working Directory: C:\Program Files (x86)\Diablo III
+2019.04.05 16:03:14.398689700	--- OS memory stats -----
+2019.04.05 16:03:14.402976800	Virtual size: 591.00 Mb
+2019.04.05 16:03:14.406668600	Total free: 3504.00 Mb
+2019.04.05 16:03:14.410104400	Largest free block: 2034.00 Mb
+2019.04.05 16:03:14.413551700	--- OS memory stats end-----
+2019.04.05 16:03:14.417001900	--- Main memory stats ---
+2019.04.05 16:03:14.421653800	XLocalHeap 02C0FE28: Nodes used: 129, Memory used: 84127120/423624704, Wasted by nodes header: 2720, Biggest contiguous free block: 336421744, Biggest contiguous allocated block: 44040192
+2019.04.05 16:03:14.427269400	XLocalHeap 12B4A040: Nodes used: 286990, Memory used: 14011280/44040192, Wasted by nodes header: 4592368, Biggest contiguous free block: 30028496, Biggest contiguous allocated block: 1840
+2019.04.05 16:03:14.431164400	--- Main memory stats end ---
+2019.04.05 16:03:14.434970200	No NGDP Manifest key found for 'enUS_CoreData.mpq.hash'
+2019.04.05 16:03:14.439459800	SNOFileLoadTextFile: 'Data_D3\Locale\ruRU\declension.txt'
+2019.04.05 16:03:14.443518900	No NGDP Manifest key found for 'Data_D3\Locale\ruRU\declension.txt'
+2019.04.05 16:03:14.447723400	SNOFileLoadTextFile: 'Data_D3\PC\Misc\banned_names.txt'
+2019.04.05 16:03:14.451349800	No NGDP Manifest key found for 'Data_D3\PC\Misc\banned_names.txt'
+2019.04.05 16:03:14.455091600	SNOFileLoadTextFile: 'Data_D3\PC\Misc\enUS_banned_names.txt'
+2019.04.05 16:03:14.458961500	No NGDP Manifest key found for 'Data_D3\PC\Misc\enUS_banned_names.txt'
+2019.04.05 16:03:14.462561700	SNOFilesAsyncInitialize()
+2019.04.05 16:03:14.470384800	--- OS memory stats -----
+2019.04.05 16:03:14.474340100	Virtual size: 592.00 Mb
+2019.04.05 16:03:14.478053700	Total free: 3503.00 Mb
+2019.04.05 16:03:14.482306800	Largest free block: 2034.00 Mb
+2019.04.05 16:03:14.487363300	--- OS memory stats end-----
+2019.04.05 16:03:14.491541300	--- Main memory stats ---
+2019.04.05 16:03:14.495780200	XLocalHeap 02C0FE28: Nodes used: 130, Memory used: 84143536/423624704, Wasted by nodes header: 2752, Biggest contiguous free block: 336421744, Biggest contiguous allocated block: 44040192
+2019.04.05 16:03:14.500709600	XLocalHeap 12B4A040: Nodes used: 286991, Memory used: 14011824/44040192, Wasted by nodes header: 4592384, Biggest contiguous free block: 30027920, Biggest contiguous allocated block: 1840
+2019.04.05 16:03:14.504863200	--- Main memory stats end ---
+2019.04.05 16:03:14.509015100	Found 205061 assets in the TOC!
+2019.04.05 16:03:14.658363500	ParseFileDataToKeyValues - uFileSize: 1385
+2019.04.05 16:03:14.702452200	Client SNOPackHash: 0x1C49D995
+2019.04.05 16:03:16.569733000	SNOPreload::InitializeForApp submit required SNOs in 1073143us
+2019.04.05 16:03:20.603525800	SNOPreload::InitializeForApp in 5106867us
+2019.04.05 16:03:20.607654300	GamelessGameGlobalsInit()
+2019.04.05 16:03:20.611343200	CGameGlobalsInit()
+2019.04.05 16:03:20.614869500	CGameGlobals::Init()
+2019.04.05 16:03:20.618287600	Disabling loading screen for 31, 0
+2019.04.05 16:03:20.626585900	[Telemetry] (HTTP): You set 'maxConnections' of HttpRequestHandler to 1. More concurrency is recommended, especially when you want to use the flow control, it is better to set maxConnections at least two.
+2019.04.05 16:03:20.630958100	[Telemetry] (TELE): OS Architecture: intel32
+2019.04.05 16:03:20.634605900	[Telemetry] (TELE): OS Platform    : win
+2019.04.05 16:03:20.638731800	[Telemetry] (TELE): OS Name        : Windows Server 2019 Standard Evaluation
+2019.04.05 16:03:20.642746000	[Telemetry] (TELE): OS Version     : 10.0.17763
+2019.04.05 16:03:20.646388800	[Telemetry] (TELE): Host Name      : WIN-UMDEHFJLUAP Server
+2019.04.05 16:03:20.650486300	>>> initializing Battle.net Game Service SDK v0.0.0 "98af98198c"/171 (Dec  5 2018 14:03:22) win32-i386-vc140-release
+2019.04.05 16:03:20.657000900	REGION[D3]: value=EU
+2019.04.05 16:03:20.661105000	CONNECTION_STRING[D3]: value=
+2019.04.05 16:03:20.665725000	CONNECTION_STRING_EU[BNA]: value=eu.actual.battle.net
+2019.04.05 16:03:20.679368000	Protocol Hash = 0xF6F33775
+2019.04.05 16:03:20.745819700	Build VersionEx: 2.6.4.55430 (133476-1625785)
+2019.04.05 16:03:20.759264700	Initializing graphics subsystem...
+2019.04.05 16:03:20.763005400	dpi = 96 96
+2019.04.05 16:03:20.786985100	*************
+2019.04.05 16:03:20.791256200	Device supports the following modes:
+2019.04.05 16:03:20.799453300		1920x1080, 60 Hz, 32 bits, Format = 22
+2019.04.05 16:03:20.804069100		1680x1050, 60 Hz, 32 bits, Format = 22
+2019.04.05 16:03:20.808106600		1680x1050, 59 Hz, 32 bits, Format = 22
+2019.04.05 16:03:20.811675100		1600x1024, 60 Hz, 32 bits, Format = 22
+2019.04.05 16:03:20.815414600		1600x1024, 60 Hz, 32 bits, Format = 22
+2019.04.05 16:03:20.819276500		1600x1024, 60 Hz, 32 bits, Format = 22
+2019.04.05 16:03:20.823736900		1600x1024, 59 Hz, 32 bits, Format = 22
+2019.04.05 16:03:20.828124500		1600x1024, 59 Hz, 32 bits, Format = 22
+2019.04.05 16:03:20.832279200		1600x1024, 59 Hz, 32 bits, Format = 22
+2019.04.05 16:03:20.836317500		1600x900, 60 Hz, 32 bits, Format = 22
+2019.04.05 16:03:20.840381700		1366x768, 60 Hz, 32 bits, Format = 22
+2019.04.05 16:03:20.843985500		1366x768, 60 Hz, 32 bits, Format = 22
+2019.04.05 16:03:20.847342700		1366x768, 60 Hz, 32 bits, Format = 22
+2019.04.05 16:03:20.850653600		1360x768, 60 Hz, 32 bits, Format = 22
+2019.04.05 16:03:20.854566300		1360x768, 60 Hz, 32 bits, Format = 22
+2019.04.05 16:03:20.858515500		1360x768, 60 Hz, 32 bits, Format = 22
+2019.04.05 16:03:20.862080900		1280x1024, 75 Hz, 32 bits, Format = 22
+2019.04.05 16:03:20.865652900		1280x1024, 60 Hz, 32 bits, Format = 22
+2019.04.05 16:03:20.870294000		1280x960, 75 Hz, 32 bits, Format = 22
+2019.04.05 16:03:20.874168700		1280x960, 75 Hz, 32 bits, Format = 22
+2019.04.05 16:03:20.877711800		1280x960, 75 Hz, 32 bits, Format = 22
+2019.04.05 16:03:20.881308700		1280x960, 60 Hz, 32 bits, Format = 22
+2019.04.05 16:03:20.884963200		1280x960, 60 Hz, 32 bits, Format = 22
+2019.04.05 16:03:20.888796300		1280x960, 60 Hz, 32 bits, Format = 22
+2019.04.05 16:03:20.892739700		1280x800, 60 Hz, 32 bits, Format = 22
+2019.04.05 16:03:20.896279200		1280x768, 60 Hz, 32 bits, Format = 22
+2019.04.05 16:03:20.900081400		1280x768, 60 Hz, 32 bits, Format = 22
+2019.04.05 16:03:20.904275200		1280x768, 60 Hz, 32 bits, Format = 22
+2019.04.05 16:03:20.908006000		1280x720, 60 Hz, 32 bits, Format = 22
+2019.04.05 16:03:20.911502800		1152x864, 75 Hz, 32 bits, Format = 22
+2019.04.05 16:03:20.914999200		1152x864, 75 Hz, 32 bits, Format = 22
+2019.04.05 16:03:20.918607400		1152x864, 75 Hz, 32 bits, Format = 22
+2019.04.05 16:03:20.922399200		1152x864, 60 Hz, 32 bits, Format = 22
+2019.04.05 16:03:20.926368300		1152x864, 60 Hz, 32 bits, Format = 22
+2019.04.05 16:03:20.930520400		1152x864, 60 Hz, 32 bits, Format = 22
+2019.04.05 16:03:20.934843800		1024x768, 75 Hz, 32 bits, Format = 22
+2019.04.05 16:03:20.939078400		1024x768, 60 Hz, 32 bits, Format = 22
+2019.04.05 16:03:20.942690800		800x600, 75 Hz, 32 bits, Format = 22
+2019.04.05 16:03:20.946032600		800x600, 60 Hz, 32 bits, Format = 22
+2019.04.05 16:03:20.949601900	End GetValidDisplayModes *************
+2019.04.05 16:03:20.953038700	Rejecting mode 1152x864, 32 bit
+2019.04.05 16:03:20.957060100	Rejecting mode 1152x864, 32 bit
+2019.04.05 16:03:20.960758500	Rejecting mode 1152x864, 32 bit
+2019.04.05 16:03:20.964574200	Rejecting mode 1152x864, 32 bit
+2019.04.05 16:03:20.968319900	Rejecting mode 1280x768, 32 bit
+2019.04.05 16:03:20.973292700	Rejecting mode 1280x768, 32 bit
+2019.04.05 16:03:20.977415300	Rejecting mode 1280x960, 32 bit
+2019.04.05 16:03:20.981439300	Rejecting mode 1280x960, 32 bit
+2019.04.05 16:03:20.985406700	Rejecting mode 1280x960, 32 bit
+2019.04.05 16:03:20.989307200	Rejecting mode 1280x960, 32 bit
+2019.04.05 16:03:20.993794000	Rejecting mode 1360x768, 32 bit
+2019.04.05 16:03:20.997685200	Rejecting mode 1360x768, 32 bit
+2019.04.05 16:03:21.001694400	Rejecting mode 1366x768, 32 bit
+2019.04.05 16:03:21.006832400	Rejecting mode 1366x768, 32 bit
+2019.04.05 16:03:21.011468500	Rejecting mode 1600x1024, 32 bit
+2019.04.05 16:03:21.015434400	Rejecting mode 1600x1024, 32 bit
+2019.04.05 16:03:21.019565500	Rejecting mode 1600x1024, 32 bit
+2019.04.05 16:03:21.023706600	Rejecting mode 1600x1024, 32 bit
+2019.04.05 16:03:21.027411800	*************
+2019.04.05 16:03:21.031425900	Device supports the following texture formats:
+2019.04.05 16:03:21.035184500		Usage = 0, Format = 0
+2019.04.05 16:03:21.039897300		Usage = 1, Format = 0
+2019.04.05 16:03:21.043831300		Usage = 0, Format = 2
+2019.04.05 16:03:21.047218400		Usage = 1, Format = 2
+2019.04.05 16:03:21.050629600		Usage = 0, Format = 3
+2019.04.05 16:03:21.054391800		Usage = 1, Format = 3
+2019.04.05 16:03:21.058348600		Usage = 0, Format = 4
+2019.04.05 16:03:21.066836300		Usage = 1, Format = 4
+2019.04.05 16:03:21.071943000		Usage = 0, Format = 5
+2019.04.05 16:03:21.075801000		Usage = 1, Format = 5
+2019.04.05 16:03:21.079302100		Usage = 0, Format = 6
+2019.04.05 16:03:21.083033700		Usage = 1, Format = 6
+2019.04.05 16:03:21.086550500		Usage = 0, Format = 7
+2019.04.05 16:03:21.090700400		Usage = 0, Format = 9
+2019.04.05 16:03:21.094509300		Usage = 0, Format = 10
+2019.04.05 16:03:21.098951600		Usage = 0, Format = 11
+2019.04.05 16:03:21.103519900		Usage = 0, Format = 12
+2019.04.05 16:03:21.107765400		Usage = 0, Format = 21
+2019.04.05 16:03:21.112024200		Usage = 1, Format = 21
+2019.04.05 16:03:21.116244900		Usage = 0, Format = 23
+2019.04.05 16:03:21.120319000		Usage = 0, Format = 24
+2019.04.05 16:03:21.124721700		Usage = 1, Format = 24
+2019.04.05 16:03:21.128972300		Usage = 0, Format = 25
+2019.04.05 16:03:21.133111900		Usage = 1, Format = 25
+2019.04.05 16:03:21.137439700		Usage = 0, Format = 26
+2019.04.05 16:03:21.141521400		Usage = 1, Format = 26
+2019.04.05 16:03:21.145547300		Usage = 0, Format = 30
+2019.04.05 16:03:21.150394400		Usage = 2, Format = 30
+2019.04.05 16:03:21.154697000		Usage = 0, Format = 31
+2019.04.05 16:03:21.158820000		Usage = 2, Format = 31
+2019.04.05 16:03:21.162844800		Usage = 0, Format = 32
+2019.04.05 16:03:21.167024400		Usage = 2, Format = 32
+2019.04.05 16:03:21.171432400		Usage = 0, Format = 33
+2019.04.05 16:03:21.175573200		Usage = 2, Format = 33
+2019.04.05 16:03:21.179400100		Usage = 0, Format = 34
+2019.04.05 16:03:21.183234400		Usage = 2, Format = 34
+2019.04.05 16:03:21.186831300		Usage = 0, Format = 36
+2019.04.05 16:03:21.191030300		Usage = 2, Format = 36
+2019.04.05 16:03:21.194875300		Usage = 0, Format = 37
+2019.04.05 16:03:21.198711700		Usage = 2, Format = 37
+2019.04.05 16:03:21.202799600		Usage = 0, Format = 38
+2019.04.05 16:03:21.206933400		Usage = 1, Format = 38
+2019.04.05 16:03:21.210653000		Usage = 0, Format = 39
+2019.04.05 16:03:21.214258500		Usage = 1, Format = 39
+2019.04.05 16:03:21.218650400		Usage = 0, Format = 40
+2019.04.05 16:03:21.222501900		Usage = 1, Format = 40
+2019.04.05 16:03:21.226328200		Usage = 0, Format = 43
+2019.04.05 16:03:21.230093000	*************
+2019.04.05 16:03:21.243644700	--- OS memory stats -----
+2019.04.05 16:03:21.247662100	Virtual size: 973.00 Mb
+2019.04.05 16:03:21.251617500	Total free: 3122.00 Mb
+2019.04.05 16:03:21.255347000	Largest free block: 2033.00 Mb
+2019.04.05 16:03:21.259242800	--- OS memory stats end-----
+2019.04.05 16:03:21.262795100	--- Main memory stats ---
+2019.04.05 16:03:21.266449300	XLocalHeap 02C0FE28: Nodes used: 1491, Memory used: 226698432/423624704, Wasted by nodes header: 35856, Biggest contiguous free block: 144033264, Biggest contiguous allocated block: 44040192
+2019.04.05 16:03:21.271952000	XLocalHeap 12B4A040: Nodes used: 294902, Memory used: 14899552/44040192, Wasted by nodes header: 4719136, Biggest contiguous free block: 29139680, Biggest contiguous allocated block: 2032
+2019.04.05 16:03:21.276086500	--- Main memory stats end ---
+2019.04.05 16:03:21.306441100	ACTIVATE APP 1 iconic 0
+2019.04.05 16:03:21.327084700	Opening Direct3D in 1887x1061 window.
+2019.04.05 16:03:21.331681300	Desktop mode w = 1920, h = 1080, format = 22 refresh = 60.
+2019.04.05 16:03:21.335812400	VSync: Disabled
+2019.04.05 16:03:21.340716500	****** Graphics Device Info ******
+2019.04.05 16:03:21.345303200	d3d9.dll
+GeForce GTX 650 Ti
+\\.\DISPLAY1
+2019.04.05 16:03:21.350019300	Driver Version 0.0.26818.12288
+2019.04.05 16:03:21.354936300	VendorID = 0x1002, DeviceID = 0x67df
+2019.04.05 16:03:21.361296900	****** Graphics Device Caps ******
+2019.04.05 16:03:21.365695900	Max Vertex Shader Consts = 256
+2019.04.05 16:03:21.371454900	Max Texture Blend Stages = 8
+2019.04.05 16:03:21.375840100	Max Tex Dimensions = 16384 x 16384
+2019.04.05 16:03:21.380367700	Max SimultaneousTextures = 8
+2019.04.05 16:03:21.384731500	Max Streams = 16
+2019.04.05 16:03:21.390089200	Max Render Targets = 4
+2019.04.05 16:03:21.394416700	Max Active Lights = 8
+2019.04.05 16:03:21.398660300	VertexShaderVersion = 3.0
+2019.04.05 16:03:21.404164200	PixelShaderVersion = 3.0
+2019.04.05 16:03:21.408188300	Supports Gamma Control : TRUE
+2019.04.05 16:03:21.412208300	Supports Depth Bias : TRUE
+2019.04.05 16:03:21.416476900	Supports Scissoring : TRUE
+2019.04.05 16:03:21.422160400	Supports Auto MipMap Generation : TRUE
+2019.04.05 16:03:21.427131900	Supports Per-Stage Constant Color : TRUE
+2019.04.05 16:03:21.434015000	Supports Temp Register : TRUE
+2019.04.05 16:03:21.439594800	Supports Separate Alpha Blend : TRUE
+2019.04.05 16:03:21.444008200	Supports Frame Buffer Blend Op: TRUE
+2019.04.05 16:03:21.448881300	Supports Anisotropic Filtering : TRUE
+2019.04.05 16:03:21.453434200	Supports StretchRect From Textures : TRUE
+2019.04.05 16:03:21.528130800	Est. Available Texture Memory = 4095 MB
+2019.04.05 16:03:21.533675500	****** Graphics Query Support ******
+2019.04.05 16:03:21.541300200	FRAMEQUERY_EVENT: Yes
+2019.04.05 16:03:21.546743600	FRAMEQUERY_BANDWIDTH: No
+2019.04.05 16:03:21.552829000	FRAMEQUERY_CACHEUTILIZATION: No
+2019.04.05 16:03:21.560008100	FRAMEQUERY_INTERFACETIMINGS: No
+2019.04.05 16:03:21.566488200	FRAMEQUERY_PIPELINETIMINGS: No
+2019.04.05 16:03:21.574882900	FRAMEQUERY_VERTEXSTATS: No
+2019.04.05 16:03:21.580568000	FRAMEQUERY_VERTEXTIMINGS: No
+2019.04.05 16:03:21.585629100	FRAMEQUERY_RESOURCEMANAGER: No
+2019.04.05 16:03:21.591969800	Direct3D window opened...04D17F00
+2019.04.05 16:03:21.707543100	Video Card: GeForce GTX 650 Ti
+2019.04.05 16:03:21.713467600	Video Driver: 0.0.26818.12288
+2019.04.05 16:03:21.718449200	Video RAM: 2007 MB
+2019.04.05 16:03:21.722924900	PCI Vendor and Device: 0, 0
+2019.04.05 16:03:21.727560800	HW Class = 4
+2019.04.05 16:03:21.733053000	Initializing input subsystem...
+2019.04.05 16:03:21.739853300	Initializing sound subsystem...
+2019.04.05 16:03:21.745790600	****** Sound Device Caps ******
+2019.04.05 16:03:21.772998600	Found 3 sound drivers:
+2019.04.05 16:03:21.780478900	Driver 0: 'Speakers (2- High Definition Audio Device)'
+2019.04.05 16:03:21.784809400	 Min Freq: 48000, Max Freq: 48000
+2019.04.05 16:03:21.789913800	 Speaker Mode: Stereo
+2019.04.05 16:03:21.794714700	 Driver Capabilities:
+2019.04.05 16:03:21.799279900	  Device can output to 8bit integer PCM.
+2019.04.05 16:03:21.804083000	  Device can output to 16bit integer PCM.
+2019.04.05 16:03:21.809594400	  Device can output to 24bit integer PCM.
+2019.04.05 16:03:21.813988000	  Device can output to 32bit integer PCM.
+2019.04.05 16:03:21.819041100	  Device can output to 32bit floating point PCM.
+2019.04.05 16:03:21.829250400	Driver 1: 'BenQ G2450H (NVIDIA High Definition Audio)'
+2019.04.05 16:03:21.833723300	 Min Freq: 48000, Max Freq: 48000
+2019.04.05 16:03:21.841025900	 Speaker Mode: Stereo
+2019.04.05 16:03:21.845644900	 Driver Capabilities:
+2019.04.05 16:03:21.850923700	  Device can output to 8bit integer PCM.
+2019.04.05 16:03:21.855999300	  Device can output to 16bit integer PCM.
+2019.04.05 16:03:21.860990700	  Device can output to 24bit integer PCM.
+2019.04.05 16:03:21.865510200	  Device can output to 32bit integer PCM.
+2019.04.05 16:03:21.871456100	  Device can output to 32bit floating point PCM.
+2019.04.05 16:03:21.878538900	Driver 2: 'Digital Audio (S/PDIF) (2- High Definition Audio Device)'
+2019.04.05 16:03:21.886880700	 Min Freq: 44100, Max Freq: 44100
+2019.04.05 16:03:21.904995400	 Speaker Mode: Stereo
+2019.04.05 16:03:21.923693900	 Driver Capabilities:
+2019.04.05 16:03:21.937496100	  Device can output to 8bit integer PCM.
+2019.04.05 16:03:21.963552400	  Device can output to 16bit integer PCM.
+2019.04.05 16:03:21.978411400	  Device can output to 24bit integer PCM.
+2019.04.05 16:03:21.992004500	  Device can output to 32bit integer PCM.
+2019.04.05 16:03:22.008112800	  Device can output to 32bit floating point PCM.
+2019.04.05 16:03:22.018595600	Selecting driver 0 (Speakers (2- High Definition Audio Device))
+2019.04.05 16:03:22.029954000	Speaker Mode: Stereo
+2019.04.05 16:03:22.042512600	Initializing sound with 32 channels
+2019.04.05 16:03:22.098856600	--- OS memory stats -----
+2019.04.05 16:03:22.111299300	Virtual size: 1299.00 Mb
+2019.04.05 16:03:22.115900900	Total free: 2796.00 Mb
+2019.04.05 16:03:22.125889000	Largest free block: 2033.00 Mb
+2019.04.05 16:03:22.131171000	--- OS memory stats end-----
+2019.04.05 16:03:22.138536900	--- Main memory stats ---
+2019.04.05 16:03:22.145424500	XLocalHeap 02C0FE28: Nodes used: 1496, Memory used: 226771744/423624704, Wasted by nodes header: 35936, Biggest contiguous free block: 144033264, Biggest contiguous allocated block: 44040192
+2019.04.05 16:03:22.157802500	XLocalHeap 12B4A040: Nodes used: 294923, Memory used: 14904192/44040192, Wasted by nodes header: 4719344, Biggest contiguous free block: 29135616, Biggest contiguous allocated block: 2032
+2019.04.05 16:03:22.175132700	--- Main memory stats end ---
+2019.04.05 16:03:22.223244200	GameDisposeGames()
+2019.04.05 16:03:22.231108300	STARTING Menu
+2019.04.05 16:03:22.245041900	CGameGlobalsInit()
+2019.04.05 16:03:22.285499800	CGameGlobals::Init()
+2019.04.05 16:03:22.308397600	Disabling loading screen for 31, 0
+2019.04.05 16:03:22.434544000	SNOPreload::InitializeForGame submit required SNOs in 114428us
+2019.04.05 16:03:24.141807100	SNOPreload::InitializeForGame in 1821656us
+2019.04.05 16:03:24.544162700	Setting depth texture, fmt = 36
+2019.04.05 16:03:24.552940600	PostFXGfxInit() success
+2019.04.05 16:03:24.558173100	SubObjectGfxInit() 1
+2019.04.05 16:03:24.590471100	Initializing client world BattleNet_Act1Screen...
+2019.04.05 16:03:24.869918200	Disposing UI for World
+2019.04.05 16:03:24.875465900	Client Disposed world.
+2019.04.05 16:03:24.879406400	Initializing client world BattleNet_MainScreen...
+2019.04.05 16:03:25.126390000	EndScene hooked to 62450D10
+2019.04.05 16:03:26.083753500	===== Battle.net Platform : Connect =====
+2019.04.05 16:03:26.090392700	I 15:03:26.090993 [BGS] |event=cert_bundle_from_user_is_ready|cert_bundle_info=version(1455065214),whitelist_size(48),trusted_certs_size(6),root_ca_hash_size(0) (src\low\network\network_connection.cpp:265)
+2019.04.05 16:03:26.288948600	I 15:03:26.289213 [BGS] |event=load_and_try_cached_cert_bundle (src\low\network\network_connection.cpp:1195)
+2019.04.05 16:03:26.294629800	I 15:03:26.295209 [BGS] |event=cert_bundle_from_cache_is_loaded|filename=C:\ProgramData/Blizzard Entertainment/Battle.net/Cache/web_cert_bundle (src\low\ssl\ssl_system.cpp:165)
+2019.04.05 16:03:26.300426200	I 15:03:26.301205 [BGS] |event=cert_bundle_from_cache_is_ready|cert_bundle_info=version(1524165989),whitelist_size(30),trusted_certs_size(8),root_ca_hash_size(150) (src\low\network\network_connection.cpp:1231)
+2019.04.05 16:03:26.412389600	I 15:03:26.412750 [BGS] |event=Connection metering enabled.|connection_id=1 (src\low\core\connection_handler.cpp:244)
+2019.04.05 16:03:26.417480100	I 15:03:26.417746 [BGS] |event=Connection to Battle.net ready.|connection_id=1|address=eu.actual.battle.net|port=1119 (src\low\core\connection_handler.cpp:264)
+2019.04.05 16:03:26.422092000	===== Battle.net Platform : Connected to Battle.net =====
+2019.04.05 16:03:26.426331000	===== Battle.net Platform : Authentication.Logon [SSO] =====
+2019.04.05 16:03:26.430233600	[Telemetry] (TELE): Requested sending batch messages by multi-part http POST messages count 1
+2019.04.05 16:03:26.517042900	>>> Logon Queue: Queued position 1 - authentication pending...
+2019.04.05 16:03:26.727272900	>>> (no hero selected) InvokeAccountLevelInfoUpdated
+2019.04.05 16:03:26.738670900	>>> TedsterTech#2445 BnetRID::GameAccountLogon id={id=146874176, program=D3, region=2}
+2019.04.05 16:03:27.245336500	>>> TedsterTech#2445 BnetRID::GameAccountLogon_SelectGameAccountCallback code=0
+2019.04.05 16:03:27.250727300	SendCustom hero:(no hero selected) id:6 attribute { name: "Version" value { string_value: "2.6.4.55430" } } attribute { name: "CustomMessageId" value { int_value: 6 } } attribute { name: "CustomMessage" value { message_value: "\010\302\216\001\022\0132.6.4.55430" } } attribute { name: "CustomMessageDestination" value { uint_value: 0 } } count:0
+2019.04.05 16:03:27.376626400	>>> BnetRID::GameAccountLogon_OnInitialLoginDataQueuedResponse code=0
+2019.04.05 16:03:27.381651300	>>> BnetRID::GameAccountLogon_OnInitialLoginDataQueuedResponse: service_id=611037139 timeout_tick_interval=1800
+2019.04.05 16:03:27.548544400	>>> BnetRID::OnInitialLoginData: Expected service_id=611037139 message service_id=611037139
+2019.04.05 16:03:27.553764600	>>> BnetRID::OnInitialLoginData code=0
+2019.04.05 16:03:27.558290300	MyContentFlags=0 ServerContentFlags=4294967295 ServerPool=Default
+2019.04.05 16:03:27.562657500	>>> BnetRID::OnInitialLoginData: server reported time at logon is 607791807515100000
+2019.04.05 16:03:27.566939600	>>> TedsterTech#2445 My Hero List:
+      TedsterTech#2445 (Tedster) Barbarian level 1 aaLevel=0 pvpRank=1 flags=0 highestAct=1 { 146874176,D3,2 } heroId=119101968 lastPlayed=ACT_1-87700(The Fallen Star) secsPlayed=0
+-------- Total: 1 --------
+2019.04.05 16:03:27.572222800	SendCustom hero:(no hero selected) id:32 attribute { name: "Version" value { string_value: "2.6.4.55430" } } attribute { name: "CustomMessageId" value { int_value: 32 } } attribute { name: "CustomMessage" value { message_value: "\010]" } } attribute { name: "CustomMessageDestination" value { uint_value: 0 } } count:0
+2019.04.05 16:03:27.576844200	Loading new achievements static data file. hash: A515A1A1BF4CFAB930C01C894F7F250E7EDFAB511D7EB801382E91CC10A8E858
+2019.04.05 16:03:27.581312600	SendCustom hero:(no hero selected) id:16 attribute { name: "Version" value { string_value: "2.6.4.55430" } } attribute { name: "CustomMessageId" value { int_value: 16 } } attribute { name: "CustomMessage" value { message_value: "" } } attribute { name: "CustomMessageDestination" value { uint_value: 0 } } count:0
+2019.04.05 16:03:27.585854300	Chat System Message: Welcome to Diablo III! (v2.6.4.55430)
+Type /? for a list of available chat commands.
+
+2019.04.05 16:03:27.591298400	SendCustom hero:(no hero selected) id:3 attribute { name: "Version" value { string_value: "2.6.4.55430" } } attribute { name: "CustomMessageId" value { int_value: 3 } } attribute { name: "CustomMessage" value { message_value: "\010\220\264\3458" } } attribute { name: "CustomMessageDestination" value { uint_value: 0 } } count:0
+2019.04.05 16:03:27.932345400	SendCustom hero:Tedster id:9 attribute { name: "Version" value { string_value: "2.6.4.55430" } } attribute { name: "CustomMessageId" value { int_value: 9 } } attribute { name: "CustomMessage" value { message_value: "\010\220\264\3458" } } attribute { name: "CustomMessageDestination" value { uint_value: 0 } } count:0
+2019.04.05 16:03:28.217447000	>>> Tedster BnetParty::_OnPartyJoined Tedster partyId=[id:72684,type:1] members:
+ >>> Tedster >>>     [0] identity { game_account_id { high: 144115196665807923 low: 146874176 } } state { role: 2 privileges: 64439 info { battle_tag: "TedsterTech#2445" } } ONLINE_AVAILABLE(1)
+2019.04.05 16:03:28.840167900	Disposing UI for World
+2019.04.05 16:03:28.845733200	Client Disposed world.
+2019.04.05 16:03:28.850709500	Initializing client world BattleNet_Act1Screen...
+2019.04.05 16:03:29.943048900	Achievements: Static Data attribute: :timestamp: = Tuesday, December 4, 2018 11:38:15 AM
+2019.04.05 16:03:29.947312600	Achievements: Static Data attribute: :seasons_in_cycle: = 12
+2019.04.05 16:03:32.085852400	[Telemetry] (TELE): Requested sending batch messages by multi-part http POST messages count 1
+2019.04.05 16:03:35.050783300	SendCustom hero:Tedster id:14 attribute { name: "Version" value { string_value: "2.6.4.55430" } } attribute { name: "CustomMessageId" value { int_value: 14 } } attribute { name: "CustomMessage" value { message_value: "\n\014\r@\037\301\010\0253D\000\000\030\002\020\000" } } attribute { name: "CustomMessageDestination" value { uint_value: 0 } } count:0
+2019.04.05 16:03:35.055365900	SendAchievementsMessage hero:Tedster id:230 attribute { name: "Version" value { string_value: "2.6.4.55430" } } attribute { name: "CustomMessageId" value { int_value: 230 } } attribute { name: "CustomMessage" value { message_value: "\n\014\r@\037\301\010\0253D\000\000\030\002" } } attribute { name: "CustomMessageDestination" value { uint_value: 5 } } attribute { name: "AchievementsShard" value { int_value: 6 } } count:0
+2019.04.05 16:03:36.763431700	SendCustom hero:Tedster id:15 attribute { name: "Version" value { string_value: "2.6.4.55430" } } attribute { name: "CustomMessageId" value { int_value: 15 } } attribute { name: "CustomMessage" value { message_value: "\n\014\r@\037\301\010\0253D\000\000\030\002\020\220\264\3458" } } attribute { name: "CustomMessageDestination" value { uint_value: 0 } } count:0
+2019.04.05 16:03:36.877228000	SendCustom hero:Tedster id:0 attribute { name: "Version" value { string_value: "2.6.4.55430" } } attribute { name: "CustomMessageId" value { int_value: 0 } } attribute { name: "CustomMessage" value { message_value: "\n\014\r@\037\301\010\0253D\000\000\030\002\020\220\264\3458" } } attribute { name: "CustomMessageDestination" value { uint_value: 0 } } count:0
+2019.04.05 16:03:37.256474600	[Telemetry] (TELE): Requested sending batch messages by multi-part http POST messages count 1
+2019.04.05 16:03:42.158886700	ERROR: >>> sProfile_ClearSeasonsSubMenu tSeasonMenuElementWrapper is NULL
+2019.04.05 16:03:56.234017900	SendStoreMessage hero:Tedster id:212 attribute { name: "Version" value { string_value: "2.6.4.55430" } } attribute { name: "CustomMessageId" value { int_value: 212 } } attribute { name: "CustomMessage" value { message_value: "" } } attribute { name: "CustomMessageDestination" value { uint_value: 4 } } count:0
+2019.04.05 16:03:56.240441400	SendStoreMessage hero:Tedster id:211 attribute { name: "Version" value { string_value: "2.6.4.55430" } } attribute { name: "CustomMessageId" value { int_value: 211 } } attribute { name: "CustomMessage" value { message_value: "\010\021\020\250\374\243\260\221\313\220\266\010" } } attribute { name: "CustomMessageDestination" value { uint_value: 4 } } count:0
+2019.04.05 16:03:56.445365300	>>> Tedster BnetService::OnGenerateSSOToken code=0
+2019.04.05 16:04:03.810325100	GameDisposeGames()
+2019.04.05 16:04:03.818403200	ENDING GAME
+2019.04.05 16:04:03.829662800	Disposing UI for World
+2019.04.05 16:04:03.838867200	Client Disposed world.
+2019.04.05 16:04:03.928623000	>>> Tedster OnGameLeft
+2019.04.05 16:04:03.991638100	>>> Tedster OnlineService::BnetService::LogoutSynchronously
+2019.04.05 16:04:03.999710500	Disposing UI root!
+2019.04.05 16:04:04.210407900	Disposing sound subsystem...
+2019.04.05 16:04:04.215390600	Start SoundPlatform::Dispose()
+2019.04.05 16:04:04.220103000	StopOVTStream
+2019.04.05 16:04:04.224716500	- Releasing DSP effects
+2019.04.05 16:04:04.228988100	- Releasing FMOD System
+2019.04.05 16:04:04.249744500	Finish SoundPlatform::Dispose()
+2019.04.05 16:04:04.254397900	Closing Direct3D window...04D17F00
+2019.04.05 16:04:04.262601700	...Direct3D window closed
+2019.04.05 16:04:04.273399500	de activate app 0 iconic 0
+2019.04.05 16:04:04.317335000	Disposing graphics subsystem...
+2019.04.05 16:04:04.429662800	>>> Tedster ===== Battle.net BnetService : Shutdown =====
+2019.04.05 16:04:04.437121600	>>> Settings::ResetGameAccountSettings
+2019.04.05 16:04:04.445817100	===== Battle.net Client Service Shutdown =====
+2019.04.05 16:04:04.481745900	[Telemetry] (TELE): Requested sending batch messages by multi-part http POST messages count 1
+2019.04.05 16:04:04.959073900	SNOFilesDispose()
+2019.04.05 16:04:05.086271800	SNOFilesAsyncDispose()
+2019.04.05 16:04:05.427358900	WinSock cleaned up successfully!
