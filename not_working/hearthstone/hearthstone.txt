@@ -7,7 +7,8 @@ In battle.net launcher:
 Hearthstone.exe -w 1920 -h 1080 -windowed -noborder +mat_disable_d3d9ex 1 +mat_d3d9ex_disabled 1 -dxlevel 90 +mat_dxlevel 90
 
 Symptoms:
-Launches and runs as dx9 flakily, can't get it to try to use D9VK though
+Launches and renders mouse cursor on blank screen, then crashes and requires force killing from Process Hacker
+
 
 Remarks:
-Meh
+Don't be an idiot like me; see logs

@@ -1,0 +1,49 @@
+2019-04-05 15:56:54.892: Logging Unity output to: C:/Users/Administrator/AppData/Local/Blizzard/Hearthstone/Logs/hearthstone_2019_04_05_15_56_54.log
+2019-04-05 15:56:54.898: Command Line: -force-d3d9 -w 1920 -h 1080 -windowed -noborder +mat_disable_d3d9ex 1 +mat_d3d9ex_disabled 1 -dxlevel 90 +mat_dxlevel 90 -launch -uid hs_beta
+2019-04-05 15:56:54.908: Current working dir=C:\Program Files (x86)\Hearthstone
+2019-04-05 15:56:54.910: Error loading config file client.config
+
+2019-04-05 15:56:54.911: Failed to load config file: 
+
+2019-04-05 15:56:57.517: Base User Folder  : C:/Users/Administrator/AppData/LocalLow/Blizzard Entertainment/Hearthstone
+2019-04-05 15:56:57.524: Base Global Folder: C:/Users/Administrator/AppData/LocalLow/Blizzard Entertainment
+2019-04-05 15:56:57.526: Base Common Folder: Telemetry
+2019-04-05 15:56:58.157: System Info:
+2019-04-05 15:56:58.158: SystemInfo - Device Name: WIN-UMDEHFJLUAP
+2019-04-05 15:56:58.159: SystemInfo - Device Model: Z87X-SLI (Gigabyte Technology Co., Ltd.)
+2019-04-05 15:56:58.159: SystemInfo - OS: Windows 10  (10.0.0) 64bit
+2019-04-05 15:56:58.160: SystemInfo - CPU Type: Intel(R) Core(TM) i5-4670K CPU @ 3.40GHz
+2019-04-05 15:56:58.161: SystemInfo - CPU Cores: 4
+2019-04-05 15:56:58.161: SystemInfo - System Memory: 32648
+2019-04-05 15:56:58.162: SystemInfo - Screen Resolution: 1920x1080
+2019-04-05 15:56:58.163: SystemInfo - Screen DPI: 96
+2019-04-05 15:56:58.164: SystemInfo - GPU ID: 26591
+2019-04-05 15:56:58.165: SystemInfo - GPU Name: GeForce GTX 650 Ti
+2019-04-05 15:56:58.166: SystemInfo - GPU Vendor: ATI
+2019-04-05 15:56:58.167: SystemInfo - GPU Memory: 2007
+2019-04-05 15:56:58.168: SystemInfo - GPU Shader Level: 20
+2019-04-05 15:56:58.169: SystemInfo - GPU NPOT Support: Full
+2019-04-05 15:56:58.170: SystemInfo - Graphics API (version): Direct3D 9.0c [d3d9.dll 0.0.26818.12288]
+2019-04-05 15:56:58.171: SystemInfo - Graphics API (type): Direct3D9
+2019-04-05 15:56:58.172: SystemInfo - Graphics Supported Render Target Count: 4
+2019-04-05 15:56:58.172: SystemInfo - Graphics Supports 3D Textures: True
+2019-04-05 15:56:58.173: SystemInfo - Graphics Supports Compute Shaders: False
+2019-04-05 15:56:58.174: SystemInfo - Graphics Supports Image Effects: True
+2019-04-05 15:56:58.175: SystemInfo - Graphics Supports Render To Cubemap: True
+2019-04-05 15:56:58.176: SystemInfo - Graphics Supports Shadows: True
+2019-04-05 15:56:58.176: SystemInfo - Graphics Supports Sparse Textures: False
+2019-04-05 15:56:58.177: SystemInfo - Graphics RenderTextureFormat.ARGBHalf: True
+2019-04-05 15:56:58.178: SystemInfo - Graphics Metal Support: False
+2019-04-05 15:56:58.280: ADVENTURE_DECK DBF Asset has 0 records! Something went wrong generating it. Try checking the generated XMLs in the DBF folder.
+
+2019-04-05 15:56:58.777: OnAfterDeserialize (69590 assets)
+2019-04-05 15:56:58.855: Spent 0.42293s so far reading Data/win/rad_base.unity3d..
+2019-04-05 15:56:58.875: OnAfterDeserialize (4850 assets)
+2019-04-05 15:56:58.878: Spent 0.4572046s so far reading Data/win/rad_enus.unity3d..
+2019-04-05 15:56:59.221: Spent 0.8008077s total time reading RuntimeAssetDatabase
+2019-04-05 15:56:59.629: CARD_CHANGE DBF Asset has 0 records! Something went wrong generating it. Try checking the generated XMLs in the DBF folder.
+
+2019-04-05 15:56:59.900: CARD_ADDITION DBF Asset has 0 records! Something went wrong generating it. Try checking the generated XMLs in the DBF folder.
+
+2019-04-05 15:57:00.231: ScenarioGuestHeroesDbfAsset.LoadRecordsFromAsset() - failed to load records from assetbundle: Assets/Game/DBF-Asset/SCENARIO_GUEST_HEROES.asset
+
