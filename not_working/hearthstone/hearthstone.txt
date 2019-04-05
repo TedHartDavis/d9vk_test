@@ -1,0 +1,13 @@
+Dota 2
+
+Tested on build from CattaRappa from 4th April 2019
+
+Launch options used (if any):
+In battle.net launcher:
+Hearthstone.exe -w 1920 -h 1080 -windowed -noborder +mat_disable_d3d9ex 1 +mat_d3d9ex_disabled 1 -dxlevel 90 +mat_dxlevel 90
+
+Symptoms:
+Launches and runs as dx9 flakily, can't get it to try to use D9VK though
+
+Remarks:
+Meh
