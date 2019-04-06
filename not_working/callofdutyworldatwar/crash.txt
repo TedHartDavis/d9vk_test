@@ -1,0 +1,43 @@
+----- Initializing Renderer ----
+execing ragdoll.cfg from disk
+----- Client Initialization -----
+----- Client Initialization Complete -----
+Trying SMP acceleration...
+...succeeded.
+----- R_Init -----
+Getting Direct3D 9 interface...
+Pixel shader version is 3.0
+Vertex shader version is 3.0
+Shader model 2.0 code path is available.
+Shader model 3.0 code path is available.
+Using Shader model 3.0 code path because it is the best available path on this hardware.
+Attempting 1920 x 1080 fullscreen with 32 bpp at 60 hz
+Game window successfully created.
+Creating Direct3D device...
+Database: Assets Sync Started
+Database: Assets Sync Finished
+Loading fastfile code_post_gfx
+Loading fastfile ui
+Loading fastfile localized_common
+Loading fastfile common
+Loading fastfile patch
+Initializing render targets...
+Requested frame buffer to be 24-bit color with 8-bit alpha
+DirectX returned a frame buffer that is 24-bit color with 8-bit alpha
+Loading fastfile 'code_post_gfx'
+used 1.13 MB memory in DB alloc
+Initializing static model cache...
+Initializing dynamic buffers...
+Initializing particle cloud buffer...
+Creating Direct3D queries...
+Setting initial state...
+DirectX reports 1024 MB of video memory and 4095 MB of available texture memory.
+Using video memory size to cap used texture memory at 1008 MB.
+Texture detail is set automatically.
+Using picmip 0 on most textures, 0 on normal maps, and 0 on specular maps
+Waited 14 msec for asset 'shadowcaster' of type 'material'.
+Waited 0 msec for asset 'shadowoverlay' of type 'material'.
+Waited 1 msec for asset 'stencilshadow' of type 'material'.
+
+
+Unhandled exception caught
