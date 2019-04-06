@@ -10,4 +10,5 @@ Symptoms:
 Can't get into level, dialog box comes up but can't read it; text rendering broken
 
 Remarks:
+To get dx9 working at all I needed to set up with the [before_videosurf] beta.
 See log
