@@ -1,4 +1,4 @@
-Train Simulator 2015
+Train Simulator
 
 Tested on build from April 1st 2019
 
