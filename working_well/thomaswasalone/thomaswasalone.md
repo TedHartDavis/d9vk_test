@@ -1,22 +1,22 @@
 Main:
 Thomas Was Alone
 
-Tested on build from CattaRappa from 4th April 2019
+Tested on build from 22nd April 2019
 
 Launch options used (if any):
-From cmd.exe:
-set DXVK_HUD=1
-ThomasWasAlone.exe -steam -w 1920 -h 1080 -windowed -noborder +mat_disable_d3d9ex 1 +mat_d3d9ex_disabled 1 -dxlevel 90 +mat_dxlevel 90
+export DXVK_HUD=1
+export DXVK_LOG_LEVEL=none
+./thomaswasalone.exe
+
 
 Symptoms:
-- Text still not there
-- Liquid not there
+Works perfectly as best I can tell now
 
 Remarks:
 Working better than before in terms of rendering smooth stuff, is very nice
 See log
 See video:
-https://youtu.be/Wg6NU91yLy8
+[insert when I get url]
 
 
 Video:
@@ -30,9 +30,9 @@ Playlist:
 https://www.youtube.com/playlist?list=PLGAsIctO10AW14gvHy8oh5oDXC_SxC7lx
 
 Launched with:
-From cmd.exe:
-set DXVK_HUD=1
-ThomasWasAlone.exe -steam -w 1920 -h 1080 -windowed -noborder +mat_disable_d3d9ex 1 +mat_d3d9ex_disabled 1 -dxlevel 90 +mat_dxlevel 90
+export DXVK_HUD=1
+export DXVK_LOG_LEVEL=none
+./thomaswasalone.exe
 
 PC Specs (for what they matter):
 CPU - Intel i5-4670k
