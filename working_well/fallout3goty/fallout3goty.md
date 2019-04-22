@@ -11,13 +11,11 @@ export DXVK_LOG_LEVEL=none
 ./Fallout3.exe
 
 Symptoms:
-Game launches fine, makes it into 3D environment, just doesn't render most things
+Water doesn't work
 
 Remarks:
-See log
 See video:
-https://youtu.be/Z5HWRIW0hqw
-
+https://youtu.be/zwNrNweZgRo
 
 Video:
 D9VK Fallout 3 GOTY [Date]
@@ -33,7 +31,6 @@ From git bash:
 export DXVK_HUD=1
 export DXVK_LOG_LEVEL=none
 ./Fallout3.exe
-
 
 PC Specs (for what they matter):
 CPU - Intel i5-4670k
