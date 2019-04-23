@@ -16,7 +16,7 @@ Remarks:
 Working better than before in terms of rendering smooth stuff, is very nice
 See log
 See video:
-[insert when I get url]
+https://youtu.be/Cc_e74bhKd0
 
 
 Video:
