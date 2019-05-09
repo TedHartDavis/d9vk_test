@@ -7,11 +7,11 @@ Video:
 https://www.youtube.com/watch?v=EIHRZ4O0dV0
 
 Additional info:
-Rock of Ages D9VK Test 48fps NVENC x64 + Sound
+Turning Point Fall of Liberty D9VK Test 48fps NVENC x64 + Sound
 
 Nvidia Drivers 418.52.03 (estamos usando el paquete binario (run package) de la pagina de nvidia)***
 
-Xubuntu 18.04 x64 - Kernel 4.17.12 generic (ubuntu mainline) -
+Xubuntu 18.04 x64 - Kernel 4.17.12 generic (ubuntu mainline) - 
 
 CPUFreq: Performance
 
