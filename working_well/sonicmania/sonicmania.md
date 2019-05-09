@@ -7,7 +7,8 @@ https://www.reddit.com/r/D9VK/comments/bc9le1/d9vk_test_sonic_mania/
 Video:
 https://www.youtube.com/watch?v=oUkKse7Umv8https://www.reddit.com/r/D9VK/comments/bc9le1/d9vk_test_sonic_mania/
 
-Info from video descriptonD9VK GIT 38ad82a
+Info from video descripton
+D9VK GIT 38ad82a
 DXVK GIT adc447c
 WINE-TKG GIT version 4.5 built from PKGBUILD 4-11-19
 NVIDIA Vulkan Driver 418.53.03
