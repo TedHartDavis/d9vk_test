@@ -13,11 +13,11 @@ export DXVK_LOG_LEVEL=none
 But it didn't seem to make much difference - the HUD didn't show up
 
 Symptoms:
-Sky doesn't render properly; lighting is odd; some things are just black as a result
+Seems all good now!
 
 Remarks:
 See video:
-https://youtu.be/VTw-Au1zXi4
+https://youtu.be/Q_IOMS3sMIg
 
 Video:
 D9VK Call of Duty: Modern Warfare 3 [Date]
