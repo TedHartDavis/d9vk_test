@@ -5,7 +5,7 @@ Source:
 https://www.reddit.com/r/D9VK/comments/bc9le1/d9vk_test_sonic_mania/
 
 Video:
-https://www.youtube.com/watch?v=oUkKse7Umv8https://www.reddit.com/r/D9VK/comments/bc9le1/d9vk_test_sonic_mania/
+https://www.youtube.com/watch?v=oUkKse7Umv8
 
 Info from video description
 D9VK GIT 38ad82a
