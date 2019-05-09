@@ -6,6 +6,7 @@ From git bash:
 export DXVK_HUD=1
 export DXVK_LOG_LEVEL=none
 ./MassEffect.exe
+...Though this doesn't seem to get the HUD working for some reason
 
 Symptoms:
 Seems perfect
