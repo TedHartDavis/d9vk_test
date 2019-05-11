@@ -1,4 +1,4 @@
-I'm Alive
+I Am Alive
 
 Game tested by u/catulirdit on 23rd April 2019
 Source:
