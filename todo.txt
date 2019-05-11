@@ -1,8 +1,0 @@
-- Retest Skyrim
-- Test games I have on UPlay
-- Wikiwikiwikiwiki
-
-Wiki:
-Make pages for all games listed here which work on dx9:
-https://en.wikipedia.org/wiki/Source_(game_engine)
-(and test those of them I can, too)
