@@ -2,7 +2,7 @@ Main:
 
 Dirt 3
 
-Tested on build from May 8th 2019
+Tested on build from May 11th 2019
 
 Launch options used (if any):
 Tried
@@ -15,9 +15,11 @@ But it didn't seem to like it
 So, launched normal from steam...
 
 Symptoms:
-Trees...unobtrusive finally
+Trees are now fine
 
 Remarks:
+See newest newest video:
+https://youtu.be/oUZ-_kWddrQ
 
 See newest video:
 https://youtu.be/YhHkm6aKApY
