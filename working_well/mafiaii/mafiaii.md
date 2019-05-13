@@ -1,4 +1,4 @@
-Mafia 2
+Mafia II
 
 Game tested by u/TacoDeBoss on 24th April 2019
 Source:
