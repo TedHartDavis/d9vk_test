@@ -1,6 +1,6 @@
 Brothers in Arms: Hell's Highway
 
-Game tested by u/catulirdit on 25th April 2019
+Game tested by u/catulirdit on 26th April 2019
 Source:
 https://www.reddit.com/r/D9VK/comments/bhsejj/brother_in_arms_hells_highway_d9vk_memory_leak/
 
