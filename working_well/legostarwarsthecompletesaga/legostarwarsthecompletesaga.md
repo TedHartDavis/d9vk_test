@@ -7,6 +7,7 @@ https://www.reddit.com/r/D9VK/comments/bli342/lego_starwars_complete_saga_d9vk_l
 Video:
 https://www.youtube.com/watch?v=Db7PJ6uy--o
 
+Additional info:
 LEGO StarWars Complete Saga D9VK Test 48fps NVENC x64 + Sound
 
 Nvidia Drivers 418.52.03 (estamos usando el paquete binario (run package) de la pagina de nvidia)***
