@@ -1,14 +1,14 @@
-Tom Clancy's Rainbow Six: Vegas
+Tom Clancy's Rainbow Six: Vegas 2
 
 Game tested by u/catulirdit on 9th May 2019
 Source:
 https://www.reddit.com/r/D9VK/comments/bmr516/rainbow_six_vegas_2_d9vk_long_test/
 
 Video:
-https://www.youtube.com/watch?v=eu6lPhNxR5k
+https://www.youtube.com/watch?v=iN_27YZltds
 
 Additional info:
-Rainbow Six Vegas 1 D9VK Test 48fps NVENC x64 + Sound
+Rainbow Six Vegas 2 D9VK Test 48fps NVENC x64 + Sound
 
 Nvidia Drivers 418.52.03 (estamos usando el paquete binario (run package) de la pagina de nvidia)***
 
