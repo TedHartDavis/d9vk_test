@@ -1,6 +1,6 @@
 Front Mission Evolved
 
-Game tested by u/catulirdit on 1st May 2019
+Game tested by u/catulirdit on 2nd May 2019
 Source:
 https://www.reddit.com/r/D9VK/comments/bjm11h/bulletstorm_d9vk_memory_leak_fix_long_test/
 
