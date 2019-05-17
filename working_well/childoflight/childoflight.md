@@ -1,4 +1,5 @@
 Child of Light
+
 Game tested by u/catulirdit on 16th May 2019
 Source:
 https://www.reddit.com/r/D9VK/comments/bpc48t/child_of_light_d9vk_long_test/

@@ -1,4 +1,5 @@
 Call of Juarez: Gunslinger
+
 Game tested by u/catulirdit on 16th May 2019
 Source:
 https://www.reddit.com/r/D9VK/comments/bpc3zo/call_of_juarez_gunslinger_d9vk_long_test/

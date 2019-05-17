@@ -1,4 +1,5 @@
 The Sexy Brutale
+
 Game tested by u/catulirdit on 16th May 2019
 Source:
 https://www.reddit.com/r/D9VK/comments/bpc4h4/the_sexy_brutale_d9vk_long_test/
