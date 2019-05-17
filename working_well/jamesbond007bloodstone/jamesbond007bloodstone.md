@@ -1,10 +1,10 @@
 James Bond 007: Blood Stone
 
-Game tested by u/catulirdit on 29th April 2019
+Game tested by u/catulirdit on 14th May 2019
 Source:
-https://www.reddit.com/r/D9VK/comments/biqfa0/007_blood_stone_d9vk_memory_leak_fix_unstable_test/
+https://www.reddit.com/r/D9VK/comments/boqfen/jb_007_blood_stone_updated_d9vk_long_test/
 Video:
-https://www.youtube.com/watch?v=gSCMccVU638
+https://www.youtube.com/watch?v=wNkjUXKTJl0
 
 Additional info:
 JB 007 Blood Stone D9VK Test 48fps NVENC x64 + Sound
