@@ -10,7 +10,7 @@ export DXVK_LOG_LEVEL=none
 
 Symptoms:
 I didn't run the arguments to fix the launch video, my bad.
-Some things don't render properly - weird reflections of light around buttons, some tiles...I don't remember rendering as blcak, emancipation grilles, the auras around portals...
+Some things don't render properly - weird reflections of light around buttons, some tiles...I don't remember rendering as black, emancipation grilles, the auras around portals...
 
 Remarks:
 See video:
