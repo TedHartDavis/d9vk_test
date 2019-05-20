@@ -2,19 +2,21 @@ Main:
 
 Red Faction: Guerrilla Steam Edition
 
-Tested on build from April 22nd 2019
+Tested on build from May 20th 2019
 
 Launch options used (if any):
 From git bash:
 export DXVK_HUD=1
 export DXVK_LOG_LEVEL=none
-./rfg.exe -nod3d11 -nod3d10
+./rfg.exe -nod3d11
 
 Symptoms:
-Sky doesn't render properly; DX9 is slow for the game compared to DX11
+Seems...perfect?
 
 Remarks:
 See video:
+https://youtu.be/-EmZtKxeoS4
+See older video:
 https://youtu.be/W2Ssk9zs8v0
 
 Video:
@@ -30,15 +32,14 @@ Launch options:
 From git bash:
 export DXVK_HUD=1
 export DXVK_LOG_LEVEL=none
-./rfg.exe -nod3d11 -nod3d10
-
+./rfg.exe -nod3d11
 
 PC Specs (for what they matter):
 CPU - Intel i5-4670k
-RAM - 32GB DDR3 at 1333MHz
-GPU - Nvidia 650Ti 2GB
-OS - Windows Server (basically Windows 10 1809)
-Recorded with Bandicam NVENC, 80q
+RAM - 24GB DDR3 at 1333MHz
+GPU - AMD R9 280X 3GB
+OS - Windows 10
+Recorded with Bandicam AMD VCE (VBR), 80q
 
 Tags:
 Joshua, Ashton, DirectX, D9VK, Vulkan, Open Source, Github, DXUP, Red Faction, Guerrilla, THQ, Volition, Geo-Mod
