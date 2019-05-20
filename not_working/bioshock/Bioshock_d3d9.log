@@ -1,0 +1,27 @@
+info:  Game: Bioshock.exe
+info:  DXVK: v1.2
+info:  Found config file: dxvk.conf
+info:  Effective configuration:
+info:    d3d9.shaderModel = 3
+warn:  OpenVR: Failed to locate module
+info:  Enabled instance extensions:
+info:    VK_KHR_get_physical_device_properties2
+info:    VK_KHR_surface
+info:    VK_KHR_win32_surface
+info:  AMD Radeon R9 200 Series:
+info:    Driver: 2.0.87
+info:    Vulkan: 1.1.106
+info:    Memory Heap[0]: 
+info:      Size: 2816 MiB
+info:      Flags: 0x3
+info:      Memory Type[0]: Property Flags = 0x1
+info:    Memory Heap[1]: 
+info:      Size: 11972 MiB
+info:      Flags: 0x0
+info:      Memory Type[1]: Property Flags = 0x6
+info:      Memory Type[3]: Property Flags = 0xe
+info:    Memory Heap[2]: 
+info:      Size: 256 MiB
+info:      Flags: 0x3
+info:      Memory Type[2]: Property Flags = 0x7
+info:  Process set as DPI aware
