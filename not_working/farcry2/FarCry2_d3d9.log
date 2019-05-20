@@ -1,5 +1,5 @@
 info:  Game: FarCry2.exe
-info:  DXVK: v1.0.1
+info:  DXVK: v1.2
 info:  Found config file: dxvk.conf
 info:  Effective configuration:
 info:    d3d9.shaderModel = 3
@@ -8,28 +8,25 @@ info:  Enabled instance extensions:
 info:    VK_KHR_get_physical_device_properties2
 info:    VK_KHR_surface
 info:    VK_KHR_win32_surface
-info:  GeForce GTX 650 Ti:
-info:    Driver: 419.35.0
-info:    Vulkan: 1.1.95
+info:  AMD Radeon R9 200 Series:
+info:    Driver: 2.0.87
+info:    Vulkan: 1.1.106
 info:    Memory Heap[0]: 
-info:      Size: 2007 MiB
-info:      Flags: 0x1
-info:      Memory Type[7]: Property Flags = 0x1
-info:      Memory Type[8]: Property Flags = 0x1
+info:      Size: 2816 MiB
+info:      Flags: 0x3
+info:      Memory Type[0]: Property Flags = 0x1
 info:    Memory Heap[1]: 
-info:      Size: 16324 MiB
+info:      Size: 11972 MiB
 info:      Flags: 0x0
-info:      Memory Type[0]: Property Flags = 0x0
-info:      Memory Type[1]: Property Flags = 0x0
-info:      Memory Type[2]: Property Flags = 0x0
-info:      Memory Type[3]: Property Flags = 0x0
-info:      Memory Type[4]: Property Flags = 0x0
-info:      Memory Type[5]: Property Flags = 0x0
-info:      Memory Type[6]: Property Flags = 0x0
-info:      Memory Type[9]: Property Flags = 0x6
-info:      Memory Type[10]: Property Flags = 0xe
+info:      Memory Type[1]: Property Flags = 0x6
+info:      Memory Type[3]: Property Flags = 0xe
+info:    Memory Heap[2]: 
+info:      Size: 256 MiB
+info:      Flags: 0x3
+info:      Memory Type[2]: Property Flags = 0x7
+info:  Process set as DPI aware
 info:  Game: FarCry2.exe
-info:  DXVK: v1.0.1
+info:  DXVK: v1.2
 info:  Found config file: dxvk.conf
 info:  Effective configuration:
 info:    d3d9.shaderModel = 3
@@ -38,28 +35,25 @@ info:  Enabled instance extensions:
 info:    VK_KHR_get_physical_device_properties2
 info:    VK_KHR_surface
 info:    VK_KHR_win32_surface
-info:  GeForce GTX 650 Ti:
-info:    Driver: 419.35.0
-info:    Vulkan: 1.1.95
+info:  AMD Radeon R9 200 Series:
+info:    Driver: 2.0.87
+info:    Vulkan: 1.1.106
 info:    Memory Heap[0]: 
-info:      Size: 2007 MiB
-info:      Flags: 0x1
-info:      Memory Type[7]: Property Flags = 0x1
-info:      Memory Type[8]: Property Flags = 0x1
+info:      Size: 2816 MiB
+info:      Flags: 0x3
+info:      Memory Type[0]: Property Flags = 0x1
 info:    Memory Heap[1]: 
-info:      Size: 16324 MiB
+info:      Size: 11972 MiB
 info:      Flags: 0x0
-info:      Memory Type[0]: Property Flags = 0x0
-info:      Memory Type[1]: Property Flags = 0x0
-info:      Memory Type[2]: Property Flags = 0x0
-info:      Memory Type[3]: Property Flags = 0x0
-info:      Memory Type[4]: Property Flags = 0x0
-info:      Memory Type[5]: Property Flags = 0x0
-info:      Memory Type[6]: Property Flags = 0x0
-info:      Memory Type[9]: Property Flags = 0x6
-info:      Memory Type[10]: Property Flags = 0xe
+info:      Memory Type[1]: Property Flags = 0x6
+info:      Memory Type[3]: Property Flags = 0xe
+info:    Memory Heap[2]: 
+info:      Size: 256 MiB
+info:      Flags: 0x3
+info:      Memory Type[2]: Property Flags = 0x7
+info:  Process set as DPI aware
 info:  Game: FarCry2.exe
-info:  DXVK: v1.0.1
+info:  DXVK: v1.2
 info:  Found config file: dxvk.conf
 info:  Effective configuration:
 info:    d3d9.shaderModel = 3
@@ -68,28 +62,25 @@ info:  Enabled instance extensions:
 info:    VK_KHR_get_physical_device_properties2
 info:    VK_KHR_surface
 info:    VK_KHR_win32_surface
-info:  GeForce GTX 650 Ti:
-info:    Driver: 419.35.0
-info:    Vulkan: 1.1.95
+info:  AMD Radeon R9 200 Series:
+info:    Driver: 2.0.87
+info:    Vulkan: 1.1.106
 info:    Memory Heap[0]: 
-info:      Size: 2007 MiB
-info:      Flags: 0x1
-info:      Memory Type[7]: Property Flags = 0x1
-info:      Memory Type[8]: Property Flags = 0x1
+info:      Size: 2816 MiB
+info:      Flags: 0x3
+info:      Memory Type[0]: Property Flags = 0x1
 info:    Memory Heap[1]: 
-info:      Size: 16324 MiB
+info:      Size: 11972 MiB
 info:      Flags: 0x0
-info:      Memory Type[0]: Property Flags = 0x0
-info:      Memory Type[1]: Property Flags = 0x0
-info:      Memory Type[2]: Property Flags = 0x0
-info:      Memory Type[3]: Property Flags = 0x0
-info:      Memory Type[4]: Property Flags = 0x0
-info:      Memory Type[5]: Property Flags = 0x0
-info:      Memory Type[6]: Property Flags = 0x0
-info:      Memory Type[9]: Property Flags = 0x6
-info:      Memory Type[10]: Property Flags = 0xe
+info:      Memory Type[1]: Property Flags = 0x6
+info:      Memory Type[3]: Property Flags = 0xe
+info:    Memory Heap[2]: 
+info:      Size: 256 MiB
+info:      Flags: 0x3
+info:      Memory Type[2]: Property Flags = 0x7
+info:  Process set as DPI aware
 info:  Game: FarCry2.exe
-info:  DXVK: v1.0.1
+info:  DXVK: v1.2
 info:  Found config file: dxvk.conf
 info:  Effective configuration:
 info:    d3d9.shaderModel = 3
@@ -98,28 +89,25 @@ info:  Enabled instance extensions:
 info:    VK_KHR_get_physical_device_properties2
 info:    VK_KHR_surface
 info:    VK_KHR_win32_surface
-info:  GeForce GTX 650 Ti:
-info:    Driver: 419.35.0
-info:    Vulkan: 1.1.95
+info:  AMD Radeon R9 200 Series:
+info:    Driver: 2.0.87
+info:    Vulkan: 1.1.106
 info:    Memory Heap[0]: 
-info:      Size: 2007 MiB
-info:      Flags: 0x1
-info:      Memory Type[7]: Property Flags = 0x1
-info:      Memory Type[8]: Property Flags = 0x1
+info:      Size: 2816 MiB
+info:      Flags: 0x3
+info:      Memory Type[0]: Property Flags = 0x1
 info:    Memory Heap[1]: 
-info:      Size: 16324 MiB
+info:      Size: 11972 MiB
 info:      Flags: 0x0
-info:      Memory Type[0]: Property Flags = 0x0
-info:      Memory Type[1]: Property Flags = 0x0
-info:      Memory Type[2]: Property Flags = 0x0
-info:      Memory Type[3]: Property Flags = 0x0
-info:      Memory Type[4]: Property Flags = 0x0
-info:      Memory Type[5]: Property Flags = 0x0
-info:      Memory Type[6]: Property Flags = 0x0
-info:      Memory Type[9]: Property Flags = 0x6
-info:      Memory Type[10]: Property Flags = 0xe
+info:      Memory Type[1]: Property Flags = 0x6
+info:      Memory Type[3]: Property Flags = 0xe
+info:    Memory Heap[2]: 
+info:      Size: 256 MiB
+info:      Flags: 0x3
+info:      Memory Type[2]: Property Flags = 0x7
+info:  Process set as DPI aware
 info:  Game: FarCry2.exe
-info:  DXVK: v1.0.1
+info:  DXVK: v1.2
 info:  Found config file: dxvk.conf
 info:  Effective configuration:
 info:    d3d9.shaderModel = 3
@@ -128,28 +116,25 @@ info:  Enabled instance extensions:
 info:    VK_KHR_get_physical_device_properties2
 info:    VK_KHR_surface
 info:    VK_KHR_win32_surface
-info:  GeForce GTX 650 Ti:
-info:    Driver: 419.35.0
-info:    Vulkan: 1.1.95
+info:  AMD Radeon R9 200 Series:
+info:    Driver: 2.0.87
+info:    Vulkan: 1.1.106
 info:    Memory Heap[0]: 
-info:      Size: 2007 MiB
-info:      Flags: 0x1
-info:      Memory Type[7]: Property Flags = 0x1
-info:      Memory Type[8]: Property Flags = 0x1
+info:      Size: 2816 MiB
+info:      Flags: 0x3
+info:      Memory Type[0]: Property Flags = 0x1
 info:    Memory Heap[1]: 
-info:      Size: 16324 MiB
+info:      Size: 11972 MiB
 info:      Flags: 0x0
-info:      Memory Type[0]: Property Flags = 0x0
-info:      Memory Type[1]: Property Flags = 0x0
-info:      Memory Type[2]: Property Flags = 0x0
-info:      Memory Type[3]: Property Flags = 0x0
-info:      Memory Type[4]: Property Flags = 0x0
-info:      Memory Type[5]: Property Flags = 0x0
-info:      Memory Type[6]: Property Flags = 0x0
-info:      Memory Type[9]: Property Flags = 0x6
-info:      Memory Type[10]: Property Flags = 0xe
+info:      Memory Type[1]: Property Flags = 0x6
+info:      Memory Type[3]: Property Flags = 0xe
+info:    Memory Heap[2]: 
+info:      Size: 256 MiB
+info:      Flags: 0x3
+info:      Memory Type[2]: Property Flags = 0x7
+info:  Process set as DPI aware
 info:  Game: FarCry2.exe
-info:  DXVK: v1.0.1
+info:  DXVK: v1.2
 info:  Found config file: dxvk.conf
 info:  Effective configuration:
 info:    d3d9.shaderModel = 3
@@ -158,28 +143,25 @@ info:  Enabled instance extensions:
 info:    VK_KHR_get_physical_device_properties2
 info:    VK_KHR_surface
 info:    VK_KHR_win32_surface
-info:  GeForce GTX 650 Ti:
-info:    Driver: 419.35.0
-info:    Vulkan: 1.1.95
+info:  AMD Radeon R9 200 Series:
+info:    Driver: 2.0.87
+info:    Vulkan: 1.1.106
 info:    Memory Heap[0]: 
-info:      Size: 2007 MiB
-info:      Flags: 0x1
-info:      Memory Type[7]: Property Flags = 0x1
-info:      Memory Type[8]: Property Flags = 0x1
+info:      Size: 2816 MiB
+info:      Flags: 0x3
+info:      Memory Type[0]: Property Flags = 0x1
 info:    Memory Heap[1]: 
-info:      Size: 16324 MiB
+info:      Size: 11972 MiB
 info:      Flags: 0x0
-info:      Memory Type[0]: Property Flags = 0x0
-info:      Memory Type[1]: Property Flags = 0x0
-info:      Memory Type[2]: Property Flags = 0x0
-info:      Memory Type[3]: Property Flags = 0x0
-info:      Memory Type[4]: Property Flags = 0x0
-info:      Memory Type[5]: Property Flags = 0x0
-info:      Memory Type[6]: Property Flags = 0x0
-info:      Memory Type[9]: Property Flags = 0x6
-info:      Memory Type[10]: Property Flags = 0xe
+info:      Memory Type[1]: Property Flags = 0x6
+info:      Memory Type[3]: Property Flags = 0xe
+info:    Memory Heap[2]: 
+info:      Size: 256 MiB
+info:      Flags: 0x3
+info:      Memory Type[2]: Property Flags = 0x7
+info:  Process set as DPI aware
 info:  Game: FarCry2.exe
-info:  DXVK: v1.0.1
+info:  DXVK: v1.2
 info:  Found config file: dxvk.conf
 info:  Effective configuration:
 info:    d3d9.shaderModel = 3
@@ -188,28 +170,25 @@ info:  Enabled instance extensions:
 info:    VK_KHR_get_physical_device_properties2
 info:    VK_KHR_surface
 info:    VK_KHR_win32_surface
-info:  GeForce GTX 650 Ti:
-info:    Driver: 419.35.0
-info:    Vulkan: 1.1.95
+info:  AMD Radeon R9 200 Series:
+info:    Driver: 2.0.87
+info:    Vulkan: 1.1.106
 info:    Memory Heap[0]: 
-info:      Size: 2007 MiB
-info:      Flags: 0x1
-info:      Memory Type[7]: Property Flags = 0x1
-info:      Memory Type[8]: Property Flags = 0x1
+info:      Size: 2816 MiB
+info:      Flags: 0x3
+info:      Memory Type[0]: Property Flags = 0x1
 info:    Memory Heap[1]: 
-info:      Size: 16324 MiB
+info:      Size: 11972 MiB
 info:      Flags: 0x0
-info:      Memory Type[0]: Property Flags = 0x0
-info:      Memory Type[1]: Property Flags = 0x0
-info:      Memory Type[2]: Property Flags = 0x0
-info:      Memory Type[3]: Property Flags = 0x0
-info:      Memory Type[4]: Property Flags = 0x0
-info:      Memory Type[5]: Property Flags = 0x0
-info:      Memory Type[6]: Property Flags = 0x0
-info:      Memory Type[9]: Property Flags = 0x6
-info:      Memory Type[10]: Property Flags = 0xe
+info:      Memory Type[1]: Property Flags = 0x6
+info:      Memory Type[3]: Property Flags = 0xe
+info:    Memory Heap[2]: 
+info:      Size: 256 MiB
+info:      Flags: 0x3
+info:      Memory Type[2]: Property Flags = 0x7
+info:  Process set as DPI aware
 info:  Game: FarCry2.exe
-info:  DXVK: v1.0.1
+info:  DXVK: v1.2
 info:  Found config file: dxvk.conf
 info:  Effective configuration:
 info:    d3d9.shaderModel = 3
@@ -218,32 +197,115 @@ info:  Enabled instance extensions:
 info:    VK_KHR_get_physical_device_properties2
 info:    VK_KHR_surface
 info:    VK_KHR_win32_surface
-info:  GeForce GTX 650 Ti:
-info:    Driver: 419.35.0
-info:    Vulkan: 1.1.95
+info:  AMD Radeon R9 200 Series:
+info:    Driver: 2.0.87
+info:    Vulkan: 1.1.106
 info:    Memory Heap[0]: 
-info:      Size: 2007 MiB
-info:      Flags: 0x1
-info:      Memory Type[7]: Property Flags = 0x1
-info:      Memory Type[8]: Property Flags = 0x1
+info:      Size: 2816 MiB
+info:      Flags: 0x3
+info:      Memory Type[0]: Property Flags = 0x1
 info:    Memory Heap[1]: 
-info:      Size: 16324 MiB
+info:      Size: 11972 MiB
 info:      Flags: 0x0
-info:      Memory Type[0]: Property Flags = 0x0
-info:      Memory Type[1]: Property Flags = 0x0
-info:      Memory Type[2]: Property Flags = 0x0
-info:      Memory Type[3]: Property Flags = 0x0
-info:      Memory Type[4]: Property Flags = 0x0
-info:      Memory Type[5]: Property Flags = 0x0
-info:      Memory Type[6]: Property Flags = 0x0
-info:      Memory Type[9]: Property Flags = 0x6
-info:      Memory Type[10]: Property Flags = 0xe
+info:      Memory Type[1]: Property Flags = 0x6
+info:      Memory Type[3]: Property Flags = 0xe
+info:    Memory Heap[2]: 
+info:      Size: 256 MiB
+info:      Flags: 0x3
+info:      Memory Type[2]: Property Flags = 0x7
+info:  Process set as DPI aware
+info:  Game: FarCry2.exe
+info:  DXVK: v1.2
+info:  Found config file: dxvk.conf
+info:  Effective configuration:
+info:    d3d9.shaderModel = 3
+warn:  OpenVR: Failed to locate module
+info:  Enabled instance extensions:
+info:    VK_KHR_get_physical_device_properties2
+info:    VK_KHR_surface
+info:    VK_KHR_win32_surface
+info:  AMD Radeon R9 200 Series:
+info:    Driver: 2.0.87
+info:    Vulkan: 1.1.106
+info:    Memory Heap[0]: 
+info:      Size: 2816 MiB
+info:      Flags: 0x3
+info:      Memory Type[0]: Property Flags = 0x1
+info:    Memory Heap[1]: 
+info:      Size: 11972 MiB
+info:      Flags: 0x0
+info:      Memory Type[1]: Property Flags = 0x6
+info:      Memory Type[3]: Property Flags = 0xe
+info:    Memory Heap[2]: 
+info:      Size: 256 MiB
+info:      Flags: 0x3
+info:      Memory Type[2]: Property Flags = 0x7
+info:  Process set as DPI aware
+info:  Game: FarCry2.exe
+info:  DXVK: v1.2
+info:  Found config file: dxvk.conf
+info:  Effective configuration:
+info:    d3d9.shaderModel = 3
+warn:  OpenVR: Failed to locate module
+info:  Enabled instance extensions:
+info:    VK_KHR_get_physical_device_properties2
+info:    VK_KHR_surface
+info:    VK_KHR_win32_surface
+info:  AMD Radeon R9 200 Series:
+info:    Driver: 2.0.87
+info:    Vulkan: 1.1.106
+info:    Memory Heap[0]: 
+info:      Size: 2816 MiB
+info:      Flags: 0x3
+info:      Memory Type[0]: Property Flags = 0x1
+info:    Memory Heap[1]: 
+info:      Size: 11972 MiB
+info:      Flags: 0x0
+info:      Memory Type[1]: Property Flags = 0x6
+info:      Memory Type[3]: Property Flags = 0xe
+info:    Memory Heap[2]: 
+info:      Size: 256 MiB
+info:      Flags: 0x3
+info:      Memory Type[2]: Property Flags = 0x7
+info:  Process set as DPI aware
+info:  Game: FarCry2.exe
+info:  DXVK: v1.2
+info:  Found config file: dxvk.conf
+info:  Effective configuration:
+info:    d3d9.shaderModel = 3
+warn:  OpenVR: Failed to locate module
+info:  Enabled instance extensions:
+info:    VK_KHR_get_physical_device_properties2
+info:    VK_KHR_surface
+info:    VK_KHR_win32_surface
+info:  AMD Radeon R9 200 Series:
+info:    Driver: 2.0.87
+info:    Vulkan: 1.1.106
+info:    Memory Heap[0]: 
+info:      Size: 2816 MiB
+info:      Flags: 0x3
+info:      Memory Type[0]: Property Flags = 0x1
+info:    Memory Heap[1]: 
+info:      Size: 11972 MiB
+info:      Flags: 0x0
+info:      Memory Type[1]: Property Flags = 0x6
+info:      Memory Type[3]: Property Flags = 0xe
+info:    Memory Heap[2]: 
+info:      Size: 256 MiB
+info:      Flags: 0x3
+info:      Memory Type[2]: Property Flags = 0x7
+info:  Process set as DPI aware
 info:  Enabled device extensions:
-info:    VK_EXT_conditional_rendering
+info:    VK_AMD_memory_overallocation_behavior
+info:    VK_AMD_shader_fragment_mask
+info:    VK_EXT_depth_clip_enable
+info:    VK_EXT_memory_priority
+info:    VK_EXT_shader_viewport_index_layer
 info:    VK_EXT_transform_feedback
 info:    VK_EXT_vertex_attribute_divisor
 info:    VK_KHR_dedicated_allocation
 info:    VK_KHR_descriptor_update_template
+info:    VK_KHR_draw_indirect_count
 info:    VK_KHR_driver_properties
 info:    VK_KHR_get_memory_requirements2
 info:    VK_KHR_image_format_list
