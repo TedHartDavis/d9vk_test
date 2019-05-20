@@ -3,10 +3,14 @@ Far Cry 3
 Tested on build from April 1st 2019
 
 Launch options used (if any):
-None
+From git bash:
+export DXVK_HUD=1
+export DXVK_LOG_LEVEL=none
+./farcry3.exe
 
 Symptoms:
-Launches to slash, then no further
+Launches to splash, then no further
 
 Remarks:
-See logs
+See log
+Tried to apitrace, didn't seem to work
