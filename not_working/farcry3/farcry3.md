@@ -1,6 +1,6 @@
 Far Cry 3
 
-Tested on build from April 1st 2019
+Tested on build from May 20th 2019
 
 Launch options used (if any):
 From git bash:
