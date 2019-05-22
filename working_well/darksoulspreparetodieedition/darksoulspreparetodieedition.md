@@ -37,10 +37,10 @@ So, launched through Steam, and while no DXVK HUD, can confirm it works with Ban
 
 PC Specs (for what they matter):
 CPU - Intel i5-4670k
-RAM - 32GB DDR3 at 1333MHz
-GPU - Nvidia 650Ti 2GB
-OS - Windows Server (basically Windows 10 1809)
-Recorded with Bandicam NVENC, 80q
+RAM - 24GB DDR3 at 1333MHz
+GPU - AMD R9 280X 3GB
+OS - Windows 10
+Recorded with Bandicam AMD VCE (VBR), 80q
 
 Tags:
 Joshua, Ashton, DirectX, D9VK, Vulkan, Open Source, Github, DXUP, Dark Souls
