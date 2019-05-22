@@ -1,5 +1,5 @@
 Borderlands 2
-Tested on build from May 8th 2019
+Tested on build from May 22nd 2019
 
 Launch options used (if any):
 From git bash:
