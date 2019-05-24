@@ -1,0 +1,18 @@
+<strong>Half-Life 2: Episode Two</strong> is a video game produced by [[Valve Software]].
+<br />
+It works to a degree, as you can see below.
+<br />
+==Additional info==
+There is additional info available for testing of this game on [[User:Tedster|Tedster]]'s GitHub repository, here:
+<br />
+https://github.com/TedsterTech/d9vk_test/blob/master/working_somewhat/halflife2episodetwo/halflife2episodetwo.md
+
+==Video==
+===April 1st 2019===
+<youtube>https://www.youtube.com/watch?v=AggvtWxdmS8</youtube>
+
+[[Category:Video Game]]
+[[Category:Half-Life 2 Series]]
+[[Category:Source Engine]]
+[[Category:Working Somewhat]]
+[[Category:Video Demonstration]]

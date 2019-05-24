@@ -1,0 +1,11 @@
+<strong>Real Al's Humanity Academy</strong> is a video game produced by [[Affinity Studios LLC]].
+<br />
+It does not work with [[D9VK]] at present.
+<br />
+==Additional info==
+There is additional info available for testing of this game on [[User:Tedster|Tedster]]'s GitHub repository, here:
+<br />
+https://github.com/TedsterTech/d9vk_test/blob/master/not_working/realalshumanityacademy/realalshumanityacademy.md
+
+[[Category:Video Game]]
+[[Category:Not Working]]

@@ -1,0 +1,16 @@
+<strong>The Cat Machine</strong> is a video game produced by [[Cranktrain]].
+<br />
+It works well, as you can see below.
+<br />
+==Additional info==
+There is additional info available for testing of this game on [[User:Tedster|Tedster]]'s GitHub repository, here:
+<br />
+https://github.com/TedsterTech/d9vk_test/blob/master/working_well/thecatmachine/thecatmachine.md
+
+==Video==
+===4th April 2019===
+<youtube>https://www.youtube.com/watch?v=iuxVeQNC8PY</youtube>
+
+[[Category:Video Game]]
+[[Category:Working Well]]
+[[Category:Video Demonstration]]

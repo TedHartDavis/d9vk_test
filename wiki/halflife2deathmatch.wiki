@@ -1,0 +1,18 @@
+<strong>Half-Life 2 Deathmatch</strong> is a video game produced by [[Valve Software]].
+<br />
+It works well, as you can see below.
+<br />
+==Additional info==
+There is additional info available for testing of this game on [[User:Tedster|Tedster]]'s GitHub repository, here:
+<br />
+https://github.com/TedsterTech/d9vk_test/blob/master/working_well/halflife2deathmatch/halflife2deathmatch.md
+
+==Video==
+===31st March 2019===
+<youtube>https://www.youtube.com/watch?v=3-wVCbTGl8A</youtube>
+
+[[Category:Video Game]]
+[[Category:Half-Life 2 Series]]
+[[Category:Source Engine]]
+[[Category:Working Well]]
+[[Category:Video Demonstration]]

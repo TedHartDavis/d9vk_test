@@ -1,0 +1,18 @@
+<strong>Fallout 3 Game of The Year Edition</strong> is a video game produced by [[Bethesda Softworks]].
+<br />
+It works somewhat, as you can see below.
+<br />
+==Additional info==
+There is additional info available for testing of this game on [[User:Tedster|Tedster]]'s GitHub repository, here:
+<br />
+https://github.com/TedsterTech/d9vk_test/blob/master/working_well/fallout3goty/fallout3goty.md
+
+==Video==
+===22nd April 2019===
+<youtube>https://youtu.be/zwNrNweZgRo</youtube>
+
+[[Category:Video Game]]
+[[Category:Gamebryo Engine]]
+[[Category:Fallout Series]]
+[[Category:Working Well]]
+[[Category:Video Demonstration]]

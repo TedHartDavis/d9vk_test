@@ -1,0 +1,13 @@
+<strong>Red Faction: Armageddon</strong> is a video game produced by [[Volition]].
+<br />
+It does not work with [[D9VK]] at present.
+<br />
+==Additional info==
+There is additional info available for testing of this game on [[User:Tedster|Tedster]]'s GitHub repository, here:
+<br />
+https://github.com/TedsterTech/d9vk_test/blob/master/not_working/redfactionarmageddon/redfactionarmageddon.md
+
+[[Category:Video Game]]
+[[Category:Not Working]]
+[[Category:Red Faction Series]]
+[[Category:Geo-Mod Engine]]

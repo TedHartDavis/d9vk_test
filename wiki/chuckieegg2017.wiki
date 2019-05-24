@@ -1,0 +1,18 @@
+<strong>Chuckie Egg 2017</strong> is a video game produced by [[Downsideup Games, Inc]].
+<br />
+It works well, as you can see below.
+<br />
+==Additional info==
+There is additional info available for testing of this game on [[User:Tedster|Tedster]]'s GitHub repository, here:
+<br />
+https://github.com/TedsterTech/d9vk_test/blob/master/working_well/chuckieegg2017/chuckieegg2017.md
+
+==Video==
+===1st April 2019===
+<youtube>https://www.youtube.com/watch?v=hTVspQuLjhs</youtube>
+
+[[Category:Video Game]]
+[[Category:Unity Engine]]
+[[Category:Working Well]]
+[[Category:Video Demonstration]]
+[[Category:Downsideup Games, Inc]]

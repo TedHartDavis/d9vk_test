@@ -1,0 +1,18 @@
+<strong>Team Fortress 2</strong> is a video game produced by [[Valve Software]].
+<br />
+It works well, as you can see below.
+<br />
+==Additional info==
+There is additional info available for testing of this game on [[User:Tedster|Tedster]]'s GitHub repository, here:
+<br />
+https://github.com/TedsterTech/d9vk_test/blob/master/working_well/teamfortress2/teamfortress2.md
+
+==Video==
+===4th April 2019===
+<youtube>https://www.youtube.com/watch?v=26vOt6N581Q</youtube>
+
+[[Category:Video Game]]
+[[Category:Team Fortress Series]]
+[[Category:Source Engine]]
+[[Category:Working Well]]
+[[Category:Video Demonstration]]

@@ -1,0 +1,17 @@
+<strong>Robotex</strong> is a video game produced by [[YFYX Games]].
+<br />
+It works well, as you can see below.
+<br />
+==Additional info==
+There is additional info available for testing of this game on [[User:Tedster|Tedster]]'s GitHub repository, here:
+<br />
+https://github.com/TedsterTech/d9vk_test/blob/master/working_well/robotex/robotex.md
+
+==Video==
+===22nd April 2019===
+<youtube>https://www.youtube.com/watch?v=Ny13_usk7oc</youtube>
+
+[[Category:Video Game]]
+[[Category:Unity Engine]]
+[[Category:Working Well]]
+[[Category:Video Demonstration]]

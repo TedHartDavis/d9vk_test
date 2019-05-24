@@ -1,0 +1,18 @@
+<strong>Portal 2</strong> is a video game produced by [[Valve Software]].
+<br />
+It works well, as you can see below.
+<br />
+==Additional info==
+There is additional info available for testing of this game on [[User:Tedster|Tedster]]'s GitHub repository, here:
+<br />
+https://github.com/TedsterTech/d9vk_test/blob/master/working_well/portal2/portal2.md
+
+==Video==
+===March 31st 2019===
+<youtube>https://www.youtube.com/watch?v=qpTG8xPVNj8</youtube>
+
+[[Category:Video Game]]
+[[Category:Portal Series]]
+[[Category:Source Engine]]
+[[Category:Working Well]]
+[[Category:Video Demonstration]]

@@ -1,0 +1,20 @@
+<strong>FlatOut 2</strong> is a video game produced by [[Bugbear Entertainment]].
+<br />
+It works well with [[D9VK]], with a few glitches - as can be seen below.
+
+==Additional Info==
+This game was tested by u/Kron4ek on the [[D9VK Subreddit]].
+<br />
+The testing information has been copied over to [[user:Tedster]]'s D9VK GitHub repository for the sake of unification and sustainability, available at:
+<br />
+https://github.com/TedsterTech/d9vk_test/blob/master/working_well/flatout2/flatout2.md
+
+==Video==
+===Build 2a217a4 (2nd May 2019)===
+<youtube>https://www.youtube.com/watch?v=goa62A7i7SM&feature=youtu.be</youtube>
+
+[[Category:Video Game]]
+[[Category:Working Well]]
+[[Category:Video Demonstration]]
+[[Category:FlatOut Series]]
+[[Category:Game not tested by Tedster]]

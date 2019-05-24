@@ -1,0 +1,11 @@
+<strong>Serious Sam 2</strong> is a video game produced by [[Devolver Digital].
+<br />
+It does not work with [[D9VK]] at present.
+<br />
+==Additional info==
+There is additional info available for testing of this game on [[User:Tedster|Tedster]]'s GitHub repository, here:
+<br />
+https://github.com/TedsterTech/d9vk_test/blob/master/not_working/serioussam2/serioussam2.md
+[[Category:Video Game]]
+[[Category:Not Working]]
+[[Category:Serious Sam Series]]

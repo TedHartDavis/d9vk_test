@@ -1,0 +1,26 @@
+<strong>Dirt 3</strong> is a video game produced by [[Codemasters]].
+<br />
+It works well with [[D9VK]], as you can see below.
+<br />
+==Additional info==
+Of note, in the video below you can see interesting rendering things happening with the trees...(though largely improved when tested with the 8th May build)
+<br />
+There is additional info available for testing of this game on [[User:Tedster|Tedster]]'s GitHub repository, here:
+<br />
+https://github.com/TedsterTech/d9vk_test/blob/master/working_well/dirt3/dirt3.md
+
+==Videos==
+===8th May 2019===
+<youtube>https://youtube.com/watch?v=/YhHkm6aKApY</youtube>
+
+===29th April 2019===
+<youtube>https://www.youtube.com/watch?v=TV3Y_gOnwKo</youtube>
+
+===22nd April 2019===
+<youtube>https://www.youtube.com/watch?v=66s8MtpgfBw</youtube>
+
+[[Category:Video Game]]
+[[Category:Dirt Series]]
+[[Category:Ego Engine]]
+[[Category:Working Well]]
+[[Category:Video Demonstration]]

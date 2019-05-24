@@ -1,0 +1,12 @@
+<strong>The Walking Dead</strong> is a video game produced by [[Telltale Games]].
+<br />
+It does not work with [[D9VK]] at present.
+<br />
+==Additional info==
+There is additional info available for testing of this game on [[User:Tedster|Tedster]]'s GitHub repository, here:
+<br />
+https://github.com/TedsterTech/d9vk_test/blob/master/not_working/thewalkingdead/thewalkingdead.md
+
+[[Category:Video Game]]
+[[Category:Not Working]]
+[[Category:The Walking Dead Series]]

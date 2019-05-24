@@ -1,0 +1,13 @@
+<strong>Call Of Duty: World at War</strong> is a video game produced by [[Activision]].
+<br />
+It does not work with [[D9VK]] at present.
+<br />
+==Additional info==
+There is additional info available for testing of this game on [[User:Tedster|Tedster]]'s GitHub repository, here:
+<br />
+https://github.com/TedsterTech/d9vk_test/blob/master/not_working/callofdutyworldatwar/callofdutyworldatwar.md
+
+[[Category:Video Game]]
+[[Category:Not Working]]
+[[Category:Call Of Duty Series]]
+[[Category:Call of Duty 4: Modern Warfare Engine]]

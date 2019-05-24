@@ -1,0 +1,17 @@
+<strong>Borderlands Game of the Year</strong> is a video game produced by [[Gearbox Software]].
+<br />
+It works well with [[D9VK]], as you can see below.
+<br />
+==Additional info==
+There is additional info available for testing of this game on [[User:Tedster|Tedster]]'s GitHub repository, here:
+<br />
+https://github.com/TedsterTech/d9vk_test/blob/master/working_well/borderlandsgoty/borderlandsgoty.md
+
+==Videos==
+===8th May 2019===
+<youtube>https://youtu.be/z7eJmhB8BmA</youtube>
+
+[[Category:Video Game]]
+[[Category:Working Well]]
+[[Category:Borderlands Series]]
+[[Category:Video Demonstration]]

@@ -1,0 +1,19 @@
+<strong>Call of Duty: Modern Warfare 3</strong> is a video game produced by [[Infinity Ward]].<br />It works seemingly perfectly, as can be seen below:
+<br />
+==Additional info==
+There is additional info available for testing of this game on [[User:Tedster|Tedster]]'s GitHub repository, here:
+<br />
+https://github.com/TedsterTech/d9vk_test/blob/master/working_well/callofdutymodernwarfare3/callofdutymodernwarfare3.md
+
+==Video==
+===8th May 2019===
+<youtube>https://youtu.be/Q_IOMS3sMIg</youtube>
+
+===22nd April 2019===
+<youtube>https://youtu.be/VTw-Au1zXi4</youtube>
+
+[[Category:Video Game]]
+[[Category:Call of Duty Series]]
+[[Category:IW Engine]]
+[[Category:Working Well]]
+[[Category:Video Demonstration]]

@@ -1,0 +1,16 @@
+<strong>Lovely Planet</strong> is a video game produced by [[QUICKTEQUILA]].
+<br />
+It works well, as you can see below.
+<br />
+==Additional info==
+There is additional info available for testing of this game on [[User:Tedster|Tedster]]'s GitHub repository, here:
+<br />
+https://github.com/TedsterTech/d9vk_test/blob/master/working_well/lovelyplanet/lovelyplanet.md
+
+==Video==
+===April 1st 2019===
+<youtube>https://www.youtube.com/watch?v=iG8WPcdJH9A</youtube>
+
+[[Category:Video Game]]
+[[Category:Working Well]]
+[[Category:Video Demonstration]]

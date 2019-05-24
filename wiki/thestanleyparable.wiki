@@ -1,0 +1,17 @@
+<strong>The Stanley Parable</strong> is a video game produced by [[Galactic Cafe]].
+<br />
+It works well, as you can see below.
+<br />
+==Additional info==
+There is additional info available for testing of this game on [[User:Tedster|Tedster]]'s GitHub repository, here:
+<br />
+https://github.com/TedsterTech/d9vk_test/blob/master/working_well/thestanleyparable/thestanleyparable.md
+
+==Video==
+===22nd April 2019===
+<youtube>https://www.youtube.com/watch?v=aQnFpMyqkyw</youtube>
+
+[[Category:Video Game]]
+[[Category:Source Engine]]
+[[Category:Working Well]]
+[[Category:Video Demonstration]]

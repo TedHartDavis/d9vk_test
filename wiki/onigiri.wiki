@@ -1,0 +1,10 @@
+<strong>Onigiri</strong> is a video game produced by [[CyberStep]].
+<br />
+It does not work with [[D9VK]] at present.
+<br />
+==Additional info==
+There is additional info available for testing of this game on [[User:Tedster|Tedster]]'s GitHub repository, here:
+<br />
+https://github.com/TedsterTech/d9vk_test/blob/master/not_working/onigiri/onigiri.md
+[[Category:Video Game]]
+[[Category:Not Working]]

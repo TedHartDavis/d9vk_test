@@ -1,0 +1,12 @@
+<strong>Darkness and Flame: The Dark Side F2P</strong> is a video game produced by [[FIVE-BN Games]].
+<br />
+It does not work with [[D9VK]] at present.
+<br />
+==Additional info==
+There is additional info available for testing of this game on [[User:Tedster|Tedster]]'s GitHub repository, here:
+<br />
+https://github.com/TedsterTech/d9vk_test/blob/master/not_working/darknessandflamethedarksidef2p/darknessandflamethedarksidef2p.md
+
+[[Category:Video Game]]
+[[Category:Not Working]]
+[[Category:Darkness and Flame Series]]

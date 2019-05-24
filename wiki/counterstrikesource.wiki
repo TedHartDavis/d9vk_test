@@ -1,0 +1,18 @@
+<strong>Counter-Strike: Source</strong> is a video game produced by [[Valve Software]].
+<br />
+It works well, as you can see below.
+<br />
+==Additional info==
+There is additional info available for testing of this game on [[User:Tedster|Tedster]]'s GitHub repository, here:
+<br />
+https://github.com/TedsterTech/d9vk_test/blob/master/working_well/counterstrikesource/counterstrikesource.md
+
+==Video==
+===1st April 2019===
+<youtube>https://www.youtube.com/watch?v=9Xf0kiODqv4</youtube>
+
+[[Category:Video Game]]
+[[Category:Counter-Strike Series]]
+[[Category:Source Engine]]
+[[Category:Working Well]]
+[[Category:Video Demonstration]]

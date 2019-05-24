@@ -1,0 +1,18 @@
+<strong>Left 4 Dead</strong> is a video game produced by [[Valve]].
+<br />
+It works somewhat, as you can see below.
+<br />
+==Additional info==
+There is additional info available for testing of this game on [[User:Tedster|Tedster]]'s GitHub repository, here:
+<br />
+https://github.com/TedsterTech/d9vk_test/blob/master/working_somewhat/left4dead/left4dead.md
+
+==Video==
+===4th April 2019===
+<youtube>https://www.youtube.com/watch?v=5WxqU09c8-0</youtube>
+
+[[Category:Video Game]]
+[[Category:Left 4 Dead Series]]
+[[Category:Source Engine]]
+[[Category:Working Somewhat]]
+[[Category:Video Demonstration]]
