@@ -1,0 +1,14 @@
+<strong>TruckersMP</strong> is a video game modification.
+<br />
+It does not work with [[D9VK]] at present.
+<br />
+==Additional info==
+There is additional info available for testing of this game on [[User:Tedster|Tedster]]'s GitHub repository, here:
+<br />
+https://github.com/TedsterTech/d9vk_test/blob/master/tests/not_working/truckersmp/truckersmp.md
+
+
+[[Category:Video Game Mod]]
+[[Category:Not Working]
+[[Category:Video Demonstration]]
+[[Category:Game not tested by Tedster]]
