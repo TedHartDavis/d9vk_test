@@ -1,0 +1,18 @@
+<strong>Flashback</strong> is a video game produced by [[Ubisoft]].
+<br />
+It works well with [[D9VK]], as can be seen below.
+<br />
+==Additional info==
+This game was tested by u/catulirdit on the [[D9VK Subreddit]].
+<br />
+There is additional info available for testing of this game on [[User:Tedster|Tedster]]'s GitHub repository, here:
+<br />
+https://github.com/TedsterTech/d9vk_test/blob/master/tests/working_well/flashback/flashback.md
+==Video==
+===1st May 2019===
+<youtube>https://www.youtube.com/watch?v=yYHszU_QX_Y</youtube>
+
+[[Category:Video Game]]
+[[Category:Working Well]]
+[[Category:Video Demonstration]]
+[[Category:Game not tested by Tedster]]
