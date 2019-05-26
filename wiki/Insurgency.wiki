@@ -5,7 +5,7 @@ It does not work with [[D9VK]] at present.
 ==Additional info==
 There is additional info available for testing of this game on [[User:Tedster|Tedster]]'s GitHub repository, here:
 <br />
-https://github.com/TedsterTech/d9vk_test/blob/master/not_working/insurgency/insurgency.md
+https://github.com/TedsterTech/d9vk_test/blob/master/tests/not_working/insurgency/insurgency.md
 
 [[Category:Video Game]]
 [[Category:Not Working]]

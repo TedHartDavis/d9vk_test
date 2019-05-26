@@ -7,7 +7,7 @@ This game was tested by u/Kron4ek on the [[D9VK Subreddit]].
 <br />
 The testing information has been copied over to [[user:Tedster]]'s D9VK GitHub repository for the sake of unification and sustainability, available at:
 <br />
-https://github.com/TedsterTech/d9vk_test/blob/master/working_well/flatout2/flatout2.md
+https://github.com/TedsterTech/d9vk_test/blob/master/tests/working_well/flatout2/flatout2.md
 
 ==Video==
 ===Build 2a217a4 (2nd May 2019)===

@@ -5,7 +5,7 @@ It works well with [[D9VK]], as you can see below.
 ==Additional info==
 There is additional info available for testing of this game on [[User:Tedster|Tedster]]'s GitHub repository, here:
 <br />
-https://github.com/TedsterTech/d9vk_test/blob/master/working_well/teamfortress2/teamfortress2.md
+https://github.com/TedsterTech/d9vk_test/blob/master/tests/working_well/teamfortress2/teamfortress2.md
 
 ==Video==
 ===4th April 2019===

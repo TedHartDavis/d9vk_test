@@ -7,7 +7,7 @@ This game was tested by u/catulirdit on the [[D9VK Subreddit]].
 <br />
 The testing information has been copied over to [[user:Tedster]]'s D9VK GitHub repository for the sake of unification and sustainability, available at:
 <br />
-https://github.com/TedsterTech/d9vk_test/blob/master/working_well/contrast/contrast.md
+https://github.com/TedsterTech/d9vk_test/blob/master/tests/working_well/contrast/contrast.md
 
 ==Video==
 ===4th May 2019===

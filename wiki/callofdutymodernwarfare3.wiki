@@ -3,7 +3,7 @@
 ==Additional info==
 There is additional info available for testing of this game on [[User:Tedster|Tedster]]'s GitHub repository, here:
 <br />
-https://github.com/TedsterTech/d9vk_test/blob/master/working_well/callofdutymodernwarfare3/callofdutymodernwarfare3.md
+https://github.com/TedsterTech/d9vk_test/blob/master/tests/working_well/callofdutymodernwarfare3/callofdutymodernwarfare3.md
 
 ==Video==
 ===8th May 2019===

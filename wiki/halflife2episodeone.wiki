@@ -5,7 +5,7 @@ It works relatively well, as you can see below.
 ==Additional info==
 There is additional info available for testing of this game on [[User:Tedster|Tedster]]'s GitHub repository, here:
 <br />
-https://github.com/TedsterTech/d9vk_test/blob/master/working_well/halflife2episodeone/halflife2episodeone.md
+https://github.com/TedsterTech/d9vk_test/blob/master/tests/working_well/halflife2episodeone/halflife2episodeone.md
 
 ==Video==
 ===31st March 2019===

@@ -5,7 +5,7 @@ It works well with [[D9VK]], as you can see below.
 ==Additional info==
 There is additional info available for testing of this game on [[User:Tedster|Tedster]]'s GitHub repository, here:
 <br />
-https://github.com/TedsterTech/d9vk_test/blob/master/working_well/halflife2thelostcoast/halflife2thelostcoast.md
+https://github.com/TedsterTech/d9vk_test/blob/master/tests/working_well/halflife2thelostcoast/halflife2thelostcoast.md
 
 ==Video==
 ===31st March 2019===

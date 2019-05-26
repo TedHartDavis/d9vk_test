@@ -5,7 +5,7 @@ It works well with [[D9VK]], as you can see below.
 ==Additional info==
 There is additional info available for testing of this game on [[User:Tedster|Tedster]]'s GitHub repository, here:
 <br />
-https://github.com/TedsterTech/d9vk_test/blob/master/not_working/supermeatboy/supermeatboy.md
+https://github.com/TedsterTech/d9vk_test/blob/master/tests/not_working/supermeatboy/supermeatboy.md
 
 ==Video==
 ===April 4th 2019===
