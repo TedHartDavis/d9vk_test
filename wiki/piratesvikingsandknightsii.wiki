@@ -1,5 +1,5 @@
 <strong>Pirates, Vikings, & Knights II</strong> is a video game produced by [[Octoshark Studios/The PVKII Team]].
-It works well, as you can see below.
+It works well with [[D9VK]], as you can see below.
 <br />
 ==Additional info==
 There is additional info available for testing of this game on [[User:Tedster|Tedster]]'s GitHub repository, here:

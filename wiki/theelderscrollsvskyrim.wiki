@@ -1,6 +1,6 @@
 <strong>The Elder Scrolls V: Skyrim</strong> is a video game produced by [[Bethesda Softworks]].
 <br />
-It works somewhat, as you can see below.
+It works somewhat with [[D9VK]] as you can see below.
 <br />
 ==Additional info==
 There is additional info available for testing of this game on [[User:Tedster|Tedster]]'s GitHub repository, here:
