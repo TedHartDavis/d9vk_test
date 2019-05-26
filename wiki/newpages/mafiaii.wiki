@@ -1,0 +1,19 @@
+<strong>Mafia II</strong> is a video game produced by [[2K]].
+<br />
+It works well with [[D9VK]], as can be seen below.
+<br />
+==Additional info==
+This game was tested by u/TacoDeBoss on the [[D9VK Subreddit]].
+<br />
+There is additional info available for testing of this game on [[User:Tedster|Tedster]]'s GitHub repository, here:
+<br />
+https://github.com/TedsterTech/d9vk_test/blob/master/tests/working_well/mafiaii/mafiaii.md
+==Video==
+===24th April 2019===
+<youtube>https://www.youtube.com/watch?v=ZvwMx9j7L5U</youtube>
+
+[[Category:Video Game]]
+[[Category:Working Well]]
+[[Category:Mafia Series]]
+[[Category:Video Demonstration]]
+[[Category:Game not tested by Tedster]]
