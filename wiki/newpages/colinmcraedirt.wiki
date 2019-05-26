@@ -1,0 +1,19 @@
+<strong>Colin McRae: Dirt</strong> is a video game produced by [[Codemasters]].
+<br />
+It works well with [[D9VK]], as can be seen below.
+<br />
+==Additional info==
+This game was tested by u/catulirdit on the [[D9VK Subreddit]].
+<br />
+There is additional info available for testing of this game on [[User:Tedster|Tedster]]'s GitHub repository, here:
+<br />
+https://github.com/TedsterTech/d9vk_test/blob/master/tests/working_well/colinmcraedirt/colinmcraedirt.md
+==Video==
+===11th May 2019===
+<youtube>https://www.youtube.com/watch?v=25fdq217AT0</youtube>
+
+[[Category:Video Game]]
+[[Category:Working Well]]
+[[Category:Colin McRae Rally Series]]
+[[Category:Video Demonstration]]
+[[Category:Game not tested by Tedster]]
