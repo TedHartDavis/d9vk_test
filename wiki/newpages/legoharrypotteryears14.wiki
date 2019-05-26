@@ -1,0 +1,19 @@
+<strong>Lego Harry Potter: Years 1–4</strong> is a video game produced by [[Traveller's Tales]].
+<br />
+It works well with [[D9VK]], as can be seen below.
+<br />
+==Additional info==
+This game was tested by u/catulirdit on the [[D9VK Subreddit]].
+<br />
+There is additional info available for testing of this game on [[User:Tedster|Tedster]]'s GitHub repository, here:
+<br />
+https://github.com/TedsterTech/d9vk_test/blob/master/tests/working_well/legoharrypotteryears14/legoharrypotteryears14.md
+==Video==
+===6th May 2019===
+<youtube>https://www.youtube.com/watch?v=okj3GFiwZLo</youtube>
+
+[[Category:Video Game]]
+[[Category:Working Well]]
+[[Category:Lego Harry Potter Series]]
+[[Category:Video Demonstration]]
+[[Category:Game not tested by Tedster]]
