@@ -1,0 +1,20 @@
+<strong>Adventure Time: Finn and Jake's Epic Quest</strong> is a video game produced by [[NGD Studios]].
+<br />
+It works well with [[D9VK]], as can be seen below.
+<br />
+==Additional info==
+This game was tested by u/catulirdit on the [[D9VK Subreddit]].
+<br />
+There is additional info available for testing of this game on [[User:Tedster|Tedster]]'s GitHub repository, here:
+<br />
+https://github.com/TedsterTech/d9vk_test/blob/master/tests/working_well/adventuretimefinnandjakesepicquest/adventuretimefinnandjakesepicquest.md
+
+==Video==
+===25th April 2019===
+<youtube>https://www.youtube.com/watch?v=Zq3xa64Oxfk</youtube>
+
+[[Category:Video Game]]
+[[Category:Working Well]]
+[[Category:Adventure Time Series]]
+[[Category:Video Demonstration]]
+[[Category:Game not tested by Tedster]]
