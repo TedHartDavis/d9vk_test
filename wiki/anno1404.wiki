@@ -1,0 +1,19 @@
+<strong>Anno 1404</strong> is a video game produced by [[Ubisoft]].
+<br />
+It works well with [[D9VK]], as can be seen below.
+
+==Additional Info==
+This game was tested by u/MegWATTT on the [[D9VK Subreddit]].
+<br />
+The testing information has been copied over to [[user:Tedster]]'s D9VK GitHub repository for the sake of unification and sustainability, available at:
+<br />
+https://github.com/TedsterTech/d9vk_test/blob/master/tests/working_well/anno1404/anno1404.md
+
+==Screenshot==
+===16th April 2019===
+https://i.redd.it/ngu9x2q3txs21.png
+
+[[Category:Video Game]]
+[[Category:Working Well]]
+[[Category:Anno Series]]
+[[Category:Game not tested by Tedster]]
