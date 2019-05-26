@@ -3,13 +3,15 @@
 It works well with [[D9VK]], as you can see below.
 <br />
 ==Additional info==
-Of note, in the video below you can see interesting rendering things happening with the trees...(though largely improved when tested with the 8th May build)
 <br />
 There is additional info available for testing of this game on [[User:Tedster|Tedster]]'s GitHub repository, here:
 <br />
 https://github.com/TedsterTech/d9vk_test/blob/master/tests/working_well/dirt3/dirt3.md
 
 ==Videos==
+===11th May 2019===
+<youtube>https://youtu.be/oUZ-_kWddrQ</youtube>
+
 ===8th May 2019===
 <youtube>https://youtube.com/watch?v=/YhHkm6aKApY</youtube>
 
