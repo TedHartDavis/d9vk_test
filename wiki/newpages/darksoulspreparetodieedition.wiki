@@ -1,0 +1,17 @@
+<strong>Dark Souls: Prepare To Die Edition</strong> is a video game produced by [[BANDAI NAMCO]].
+<br />
+It works well with [[D9VK]], as can be seen below.
+<br />
+==Additional info==
+There is additional info available for testing of this game on [[User:Tedster|Tedster]]'s GitHub repository, here:
+<br />
+https://github.com/TedsterTech/d9vk_test/blob/master/tests/working_well/darksoulspreparetodieedition/darksoulspreparetodieedition.md
+==Video==
+===22nd May 2019===
+<youtube>https://youtu.be/dnjnbkSSSmM</youtube>
+
+[[Category:Video Game]]
+[[Category:Working Well]]
+[[Category:Dark Souls Series]]
+[[Category:Video Demonstration]]
+[[Category:Game not tested by Tedster]]
