@@ -1,0 +1,20 @@
+<strong>Call of Duty 4: Modern Warfare</strong> is a video game produced by [[Infinity Ward]].
+<br />
+It works well with [[D9VK]], but with lighting issues, as can be seen below:
+<br />
+==Additional info==
+This game was tested by u/TacoDeBoss on the [[D9VK Subreddit]].
+<br />
+There is additional info available for testing of this game on [[User:Tedster|Tedster]]'s GitHub repository, here:
+<br />
+https://github.com/TedsterTech/d9vk_test/blob/master/tests/working_well/callofduty4modernwarfare/callofduty4modernwarfare.md
+
+==Video==
+===22nd April 2019===
+<youtube>https://www.youtube.com/watch?v=qlB86XCAjEM</youtube>
+
+[[Category:Video Game]]
+[[Category:Call of Duty Series]]
+[[Category:Working Well]]
+[[Category:Video Demonstration]]
+[[Category:Game not tested by Tedster]]
