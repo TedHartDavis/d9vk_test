@@ -1,0 +1,20 @@
+<strong>Turning Point: Fall of Liberty</strong> is a video game produced by [[Codemasters]].
+<br />
+It works well with [[D9VK]], as can be seen below.
+<br />
+==Additional info==
+This game was tested by u/catulirdit on the [[D9VK Subreddit]].
+<br />
+There is additional info available for testing of this game on [[User:Tedster|Tedster]]'s GitHub repository, here:
+<br />
+https://github.com/TedsterTech/d9vk_test/blob/master/tests/working_well/turningpointfallofliberty/turningpointfallofliberty.md
+
+==Video==
+===18th April 2019===
+<youtube>https://www.youtube.com/watch?v=EIHRZ4O0dV0</youtube>
+
+[[Category:Video Game]]
+[[Category:Working Well]]
+[[Category:Unreal Engine]]
+[[Category:Video Demonstration]]
+[[Category:Game not tested by Tedster]]
