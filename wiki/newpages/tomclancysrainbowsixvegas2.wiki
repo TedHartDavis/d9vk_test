@@ -1,4 +1,4 @@
-<strong>Tom Clancy's Rainbow Six: Vegas</strong> is a video game produced by [[Ubisoft]].
+<strong>Tom Clancy's Rainbow Six: Vegas 2</strong> is a video game produced by [[Ubisoft]].
 <br />
 It works well with [[D9VK]], as can be seen below.
 <br />
@@ -7,10 +7,10 @@ This game was tested by u/catulirdit on the [[D9VK Subreddit]].
 <br />
 There is additional info available for testing of this game on [[User:Tedster|Tedster]]'s GitHub repository, here:
 <br />
-https://github.com/TedsterTech/d9vk_test/blob/master/tests/working_well/tomclancysrainbowsixvegas/tomclancysrainbowsixvegas.md
+https://github.com/TedsterTech/d9vk_test/blob/master/tests/working_well/tomclancysrainbowsixvegas2/tomclancysrainbowsixvegas2.md
 ==Video==
 ===9th May 2019===
-<youtube>https://www.youtube.com/watch?v=eu6lPhNxR5k</youtube>
+<youtube>https://www.youtube.com/watch?v=iN_27YZltds</youtube>
 
 [[Category:Video Game]]
 [[Category:Working Well]]
