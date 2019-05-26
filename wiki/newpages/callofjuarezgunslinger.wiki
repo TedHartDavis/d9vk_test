@@ -1,0 +1,20 @@
+<strong>Call of Juarez: Gunslinger</strong> is a video game produced by [[Techland Publishing]].
+<br />
+It works well with [[D9VK]], as can be seen below.
+<br />
+==Additional info==
+This game was tested by u/catulirdit on the [[D9VK Subreddit]].
+<br />
+There is additional info available for testing of this game on [[User:Tedster|Tedster]]'s GitHub repository, here:
+<br />
+https://github.com/TedsterTech/d9vk_test/blob/master/tests/working_well/callofjuarezgunslinger/callofjuarezgunslinger.md
+==Video==
+===16th May 2019===
+<youtube>https://www.youtube.com/watch?v=5U1LJ3iC9y8</youtube>
+
+[[Category:Video Game]]
+[[Category:Working Well]]
+[[Category:Call of Juarez Series]]
+[[Category:Chrome Engine]]
+[[Category:Video Demonstration]]
+[[Category:Game not tested by Tedster]]
